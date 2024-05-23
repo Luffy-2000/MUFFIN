@@ -1,0 +1,39 @@
+baidumap	202	202	202	202	port:49157 1900	win:	ciphersuits:
+baidumap	48	48	48	48	48	48	48	48	port:46830 3478	win:	ciphersuits:
+baidumap	48	48	48	48	48	48	48	48	port:45445 3478	win:	ciphersuits:
+baidumap	48	48	48	48	48	port:43460 3478	win:	ciphersuits:
+baidumap	202	202	202	202	port:56566 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:49357 1900	win:	ciphersuits:
+baidumap	50	port:50361 5355	win:	ciphersuits:
+baidumap	50	port:49353 5355	win:	ciphersuits:
+baidumap	202	202	202	202	port:55566 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:55499 1900	win:	ciphersuits:
+baidumap	48	48	48	48	48	48	48	port:38416 3478	win:	ciphersuits:
+baidumap	202	202	202	202	port:54753 1900	win:	ciphersuits:
+baidumap	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:51895 1900	win:	ciphersuits:
+baidumap	202	202	202	port:61169 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:64802 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:60407 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:57509 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:51697 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:53578 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:61677 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:60087 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:50186 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:53563 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:57597 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:59861 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:58884 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:54180 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:51874 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:51143 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:50905 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:60169 1900	win:	ciphersuits:
+baidumap	48	48	48	48	48	port:39746 3478	win:	ciphersuits:
+baidumap	48	48	48	48	48	port:38924 3478	win:	ciphersuits:
+baidumap	202	202	202	202	port:53731 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:51031 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:56089 1900	win:	ciphersuits:
+baidumap	202	202	202	202	port:50970 1900	win:	ciphersuits:
+baidumap	48	48	48	48	48	48	48	port:46365 3478	win:	ciphersuits:
+baidumap	202	202	202	202	port:61611 1900	win:	ciphersuits:

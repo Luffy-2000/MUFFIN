@@ -1,0 +1,109 @@
+jingdong	48	48	48	48	48	48	48	port:38522 3478	win:	ciphersuits:
+jingdong	201	201	201	201	port:64959 1900	win:	ciphersuits:
+jingdong	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:50599 1900	win:	ciphersuits:
+jingdong	50	port:49368 5355	win:	ciphersuits:
+jingdong	50	port:49454 5355	win:	ciphersuits:
+jingdong	201	201	201	201	port:49940 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:49451 1900	win:	ciphersuits:
+jingdong	50	port:52759 5355	win:	ciphersuits:
+jingdong	50	port:58209 5355	win:	ciphersuits:
+jingdong	201	201	201	201	port:59575 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:65008 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:65012 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:56525 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:52530 1900	win:	ciphersuits:
+jingdong	50	port:57994 5355	win:	ciphersuits:
+jingdong	50	port:61185 5355	win:	ciphersuits:
+jingdong	50	port:57065 5355	win:	ciphersuits:
+jingdong	50	port:60928 5355	win:	ciphersuits:
+jingdong	57	port:61618 5355	win:	ciphersuits:
+jingdong	53	port:52958 5355	win:	ciphersuits:
+jingdong	53	port:50661 5355	win:	ciphersuits:
+jingdong	59	port:58629 5355	win:	ciphersuits:
+jingdong	59	port:49638 5355	win:	ciphersuits:
+jingdong	53	port:56222 5355	win:	ciphersuits:
+jingdong	57	port:57675 5355	win:	ciphersuits:
+jingdong	50	port:60989 5355	win:	ciphersuits:
+jingdong	50	port:61535 5355	win:	ciphersuits:
+jingdong	50	port:56508 5355	win:	ciphersuits:
+jingdong	50	port:61061 5355	win:	ciphersuits:
+jingdong	201	201	201	201	port:61062 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:50160 1900	win:	ciphersuits:
+jingdong	50	port:49787 5355	win:	ciphersuits:
+jingdong	201	201	201	201	port:54997 1900	win:	ciphersuits:
+jingdong	50	port:52609 5355	win:	ciphersuits:
+jingdong	50	port:52402 5355	win:	ciphersuits:
+jingdong	201	201	201	201	port:52405 1900	win:	ciphersuits:
+jingdong	48	48	48	48	48	48	port:44066 3478	win:	ciphersuits:
+jingdong	48	48	48	port:37778 3478	win:	ciphersuits:
+jingdong	201	201	port:57642 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:50203 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:59003 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:59007 1900	win:	ciphersuits:
+jingdong	50	port:53663 5355	win:	ciphersuits:
+jingdong	50	port:57265 5355	win:	ciphersuits:
+jingdong	201	201	201	201	port:50717 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:52358 1900	win:	ciphersuits:
+jingdong	50	port:61791 5355	win:	ciphersuits:
+jingdong	201	201	201	201	port:61792 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:58146 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:60154 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:54035 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:49533 1900	win:	ciphersuits:
+jingdong	48	48	48	48	48	48	48	port:47811 3478	win:	ciphersuits:
+jingdong	201	201	201	201	port:52054 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:60142 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:60146 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:57419 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:50605 1900	win:	ciphersuits:
+jingdong	48	48	48	48	48	48	port:48409 3478	win:	ciphersuits:
+jingdong	48	48	48	48	48	port:44175 3478	win:	ciphersuits:
+jingdong	201	201	201	201	port:65267 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:55745 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:61288 1900	win:	ciphersuits:
+jingdong	50	port:52560 5355	win:	ciphersuits:
+jingdong	201	201	201	201	port:50200 1900	win:	ciphersuits:
+jingdong	48	48	48	48	48	48	port:39276 3478	win:	ciphersuits:
+jingdong	48	48	48	48	port:41735 3478	win:	ciphersuits:
+jingdong	48	48	48	48	48	port:43551 3478	win:	ciphersuits:
+jingdong	201	201	201	201	port:52597 1900	win:	ciphersuits:
+jingdong	50	port:57593 5355	win:	ciphersuits:
+jingdong	50	port:64818 5355	win:	ciphersuits:
+jingdong	201	201	201	201	port:59238 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:55491 1900	win:	ciphersuits:
+jingdong	48	48	48	48	48	48	port:41926 3478	win:	ciphersuits:
+jingdong	48	48	48	48	port:42032 3478	win:	ciphersuits:
+jingdong	201	201	201	201	port:58255 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:55086 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:62053 1900	win:	ciphersuits:
+jingdong	48	48	48	48	48	port:44955 3478	win:	ciphersuits:
+jingdong	201	201	201	201	port:56443 1900	win:	ciphersuits:
+jingdong	48	48	48	48	48	port:37417 3478	win:	ciphersuits:
+jingdong	48	48	48	48	48	port:48857 3478	win:	ciphersuits:
+jingdong	201	201	201	201	port:49453 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:49457 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:53479 1900	win:	ciphersuits:
+jingdong	48	48	48	48	48	48	port:44316 3478	win:	ciphersuits:
+jingdong	201	201	201	201	port:52573 1900	win:	ciphersuits:
+jingdong	201	201	201	201	201	201	201	201	port:49154 1900	win:	ciphersuits:
+jingdong	48	48	48	48	48	48	48	48	48	port:38193 3478	win:	ciphersuits:
+jingdong	48	48	48	48	48	48	48	48	port:37233 3478	win:	ciphersuits:
+jingdong	201	201	201	201	port:56394 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:56398 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:49924 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:61425 1900	win:	ciphersuits:
+jingdong	48	48	48	48	48	48	port:46482 3478	win:	ciphersuits:
+jingdong	201	201	201	201	port:61276 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:60286 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:49725 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:52924 1900	win:	ciphersuits:
+jingdong	48	48	48	48	port:41968 3478	win:	ciphersuits:
+jingdong	201	201	201	201	port:51136 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:50158 1900	win:	ciphersuits:
+jingdong	48	48	48	48	48	48	port:49798 3478	win:	ciphersuits:
+jingdong	201	201	201	201	port:50366 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:49894 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:52937 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:55417 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:55421 1900	win:	ciphersuits:
+jingdong	201	201	201	201	port:61041 1900	win:	ciphersuits:

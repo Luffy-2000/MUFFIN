@@ -1,0 +1,272 @@
+instagram	165	165	165	165	165	165	port:65087 1900	win:	ciphersuits:
+instagram	165	155	port:51462 1900	win:	ciphersuits:
+instagram	165	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	165	165	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	165	165	165	165	165	165	165	165	port:65307 1900	win:	ciphersuits:
+instagram	50	port:55101 5355	win:	ciphersuits:
+instagram	50	port:54708 5355	win:	ciphersuits:
+instagram	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	port:57103 1900	win:	ciphersuits:
+instagram	50	port:51171 5355	win:	ciphersuits:
+instagram	50	port:52279 5355	win:	ciphersuits:
+instagram	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	165	port:51648 1900	win:	ciphersuits:
+instagram	50	port:59604 5355	win:	ciphersuits:
+instagram	50	port:58665 5355	win:	ciphersuits:
+instagram	129	165	129	129	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	129	129	129	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	129	165	129	165	129	129	129	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:50863 1900	win:	ciphersuits:
+instagram	652	652	652	652	652	652	652	port:50868 3702	win:	ciphersuits:
+instagram	50	port:54011 5355	win:	ciphersuits:
+instagram	50	port:59808 5355	win:	ciphersuits:
+instagram	50	port:65022 5355	win:	ciphersuits:
+instagram	652	652	652	652	652	652	652	652	652	652	652	652	652	652	port:51766 3702	win:	ciphersuits:
+instagram	50	port:64857 5355	win:	ciphersuits:
+instagram	50	port:59455 5355	win:	ciphersuits:
+instagram	652	652	652	652	652	652	652	port:53946 3702	win:	ciphersuits:
+instagram	201	201	201	201	port:57405 1900	win:	ciphersuits:
+instagram	50	port:50710 5355	win:	ciphersuits:
+instagram	50	port:53749 5355	win:	ciphersuits:
+instagram	50	port:65024 5355	win:	ciphersuits:
+instagram	50	port:57403 5355	win:	ciphersuits:
+instagram	53	port:58755 5355	win:	ciphersuits:
+instagram	58	port:60740 5355	win:	ciphersuits:
+instagram	58	port:50176 5355	win:	ciphersuits:
+instagram	59	port:56210 5355	win:	ciphersuits:
+instagram	50	port:59729 5355	win:	ciphersuits:
+instagram	50	port:64535 5355	win:	ciphersuits:
+instagram	50	port:54659 5355	win:	ciphersuits:
+instagram	50	port:58616 5355	win:	ciphersuits:
+instagram	50	50	port:57155 5355	win:	ciphersuits:
+instagram	50	port:49784 5355	win:	ciphersuits:
+instagram	50	port:56961 5355	win:	ciphersuits:
+instagram	50	port:50840 5355	win:	ciphersuits:
+instagram	50	port:56846 5355	win:	ciphersuits:
+instagram	50	port:57105 5355	win:	ciphersuits:
+instagram	50	port:60633 5355	win:	ciphersuits:
+instagram	50	port:51045 5355	win:	ciphersuits:
+instagram	50	port:52991 5355	win:	ciphersuits:
+instagram	50	port:50740 5355	win:	ciphersuits:
+instagram	50	port:60701 5355	win:	ciphersuits:
+instagram	50	port:64758 5355	win:	ciphersuits:
+instagram	50	port:58514 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:54743 1900	win:	ciphersuits:
+instagram	50	port:50332 5355	win:	ciphersuits:
+instagram	50	port:57834 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:56126 1900	win:	ciphersuits:
+instagram	71	port:57930 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:61165 1900	win:	ciphersuits:
+instagram	50	port:56699 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:60892 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:51835 1900	win:	ciphersuits:
+instagram	50	port:49736 5355	win:	ciphersuits:
+instagram	50	port:59264 5355	win:	ciphersuits:
+instagram	50	port:53177 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:61479 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:64796 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:50426 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56254 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:50438 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:55252 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:58090 1900	win:	ciphersuits:
+instagram	201	201	201	port:55662 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:54233 1900	win:	ciphersuits:
+instagram	71	port:49488 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:56722 1900	win:	ciphersuits:
+instagram	50	port:53410 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:60528 1900	win:	ciphersuits:
+instagram	50	port:59301 5355	win:	ciphersuits:
+instagram	50	port:65229 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:57161 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:54586 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:50396 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:57792 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:57761 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:58746 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56604 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56266 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:51541 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:60971 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:51245 1900	win:	ciphersuits:
+instagram	50	port:59678 5355	win:	ciphersuits:
+instagram	50	port:57180 5355	win:	ciphersuits:
+instagram	50	port:58926 5355	win:	ciphersuits:
+instagram	50	port:65484 5355	win:	ciphersuits:
+instagram	50	port:54928 5355	win:	ciphersuits:
+instagram	56	port:56498 5355	win:	ciphersuits:
+instagram	57	port:54272 5355	win:	ciphersuits:
+instagram	56	port:58528 5355	win:	ciphersuits:
+instagram	57	port:52678 5355	win:	ciphersuits:
+instagram	61	port:50251 5355	win:	ciphersuits:
+instagram	61	port:54498 5355	win:	ciphersuits:
+instagram	57	port:53699 5355	win:	ciphersuits:
+instagram	57	port:53641 5355	win:	ciphersuits:
+instagram	56	port:53678 5355	win:	ciphersuits:
+instagram	56	port:58712 5355	win:	ciphersuits:
+instagram	50	port:57605 5355	win:	ciphersuits:
+instagram	50	port:50113 5355	win:	ciphersuits:
+instagram	50	port:51676 5355	win:	ciphersuits:
+instagram	50	port:65184 5355	win:	ciphersuits:
+instagram	50	port:51333 5355	win:	ciphersuits:
+instagram	201	port:61286 1900	win:	ciphersuits:
+instagram	50	port:51321 5355	win:	ciphersuits:
+instagram	50	port:49214 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:51194 1900	win:	ciphersuits:
+instagram	50	port:64373 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:56714 1900	win:	ciphersuits:
+instagram	50	port:51386 5355	win:	ciphersuits:
+instagram	50	port:56712 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:51185 1900	win:	ciphersuits:
+instagram	50	port:50016 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:60637 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:54203 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:57817 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56094 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:49242 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56079 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:60425 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56340 1900	win:	ciphersuits:
+instagram	71	port:63782 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:60440 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:53731 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:53401 1900	win:	ciphersuits:
+instagram	50	port:65066 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:58000 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:57551 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:64959 1900	win:	ciphersuits:
+instagram	50	port:52670 5355	win:	ciphersuits:
+instagram	50	port:64957 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:49964 1900	win:	ciphersuits:
+instagram	50	port:54036 5355	win:	ciphersuits:
+instagram	50	port:58877 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:60866 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:53492 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:63918 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:58073 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:54046 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:55031 1900	win:	ciphersuits:
+instagram	71	port:60569 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:63782 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:51745 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56086 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:63975 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:49537 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:49364 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:50631 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56319 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:58512 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:59199 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:51297 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:58406 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:65282 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:57740 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56006 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:59476 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:57741 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:58540 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:61116 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:53511 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:64755 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:52112 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:64953 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:50213 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:57595 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:54958 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56929 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:54199 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:57127 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:51840 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:64291 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:51885 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56488 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:54844 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:59871 1900	win:	ciphersuits:
+instagram	50	port:63760 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:59159 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:65385 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:59623 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:58658 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:49401 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:55443 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:64153 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:55688 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56000 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:60102 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:51738 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:65114 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:51706 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:53553 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:59512 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:53744 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:52521 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:50557 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:57065 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:63728 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:53906 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:59302 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:50260 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:60841 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:64283 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:50145 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:63780 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:52226 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56631 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:55687 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:52418 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:64055 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:49204 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:53605 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:64928 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:55640 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:65336 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:60079 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:59409 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:58015 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:60371 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:60285 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:52281 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:57994 1900	win:	ciphersuits:
+instagram	50	port:64519 5355	win:	ciphersuits:
+instagram	50	port:61197 5355	win:	ciphersuits:
+instagram	50	port:51160 5355	win:	ciphersuits:
+instagram	50	port:61023 5355	win:	ciphersuits:
+instagram	56	port:59346 5355	win:	ciphersuits:
+instagram	55	port:53064 5355	win:	ciphersuits:
+instagram	55	port:61189 5355	win:	ciphersuits:
+instagram	54	port:59252 5355	win:	ciphersuits:
+instagram	54	port:49411 5355	win:	ciphersuits:
+instagram	54	port:49193 5355	win:	ciphersuits:
+instagram	54	port:60583 5355	win:	ciphersuits:
+instagram	56	port:49706 5355	win:	ciphersuits:
+instagram	56	port:60637 5355	win:	ciphersuits:
+instagram	50	port:65476 5355	win:	ciphersuits:
+instagram	50	port:53455 5355	win:	ciphersuits:
+instagram	50	port:64650 5355	win:	ciphersuits:
+instagram	50	port:50795 5355	win:	ciphersuits:
+instagram	50	port:56467 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:50853 1900	win:	ciphersuits:
+instagram	50	port:55719 5355	win:	ciphersuits:
+instagram	50	port:55633 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:49885 1900	win:	ciphersuits:
+instagram	50	port:57874 5355	win:	ciphersuits:
+instagram	50	port:59542 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:58332 1900	win:	ciphersuits:
+instagram	50	port:51761 5355	win:	ciphersuits:
+instagram	50	port:58330 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:61295 1900	win:	ciphersuits:
+instagram	50	port:61363 5355	win:	ciphersuits:
+instagram	50	port:56854 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:53710 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:57609 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:50614 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:51580 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:54013 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:53125 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:55829 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56435 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:55223 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:56339 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:64539 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:55494 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:57950 1900	win:	ciphersuits:
+instagram	201	201	201	201	port:49528 1900	win:	ciphersuits:
+instagram	50	port:49738 5355	win:	ciphersuits:
+instagram	50	port:49525 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:58854 1900	win:	ciphersuits:
+instagram	50	port:53951 5355	win:	ciphersuits:
+instagram	50	port:50868 5355	win:	ciphersuits:
+instagram	201	201	201	201	port:60439 1900	win:	ciphersuits:

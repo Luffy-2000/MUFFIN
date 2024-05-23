@@ -1,0 +1,10 @@
+booking	50	port:56515 5355	win:	ciphersuits:
+booking	50	port:50713 5355	win:	ciphersuits:
+booking	50	port:51314 5355	win:	ciphersuits:
+booking	50	port:56551 5355	win:	ciphersuits:
+booking	165	165	165	165	165	165	165	165	165	165	165	165	port:57529 1900	win:	ciphersuits:
+booking	50	port:51603 5355	win:	ciphersuits:
+booking	50	port:56047 5355	win:	ciphersuits:
+booking	50	port:59934 5355	win:	ciphersuits:
+booking	50	port:60114 5355	win:	ciphersuits:
+booking	50	port:49425 5355	win:	ciphersuits:

@@ -1,0 +1,201 @@
+pinduoduo	201	201	201	201	port:55835 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:57745 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:53154 1900	win:	ciphersuits:
+pinduoduo	50	port:54760 5355	win:	ciphersuits:
+pinduoduo	50	port:49761 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:60325 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:63966 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:50563 1900	win:	ciphersuits:
+pinduoduo	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:52117 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:49314 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:55243 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:54287 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:63657 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:53423 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:64983 1900	win:	ciphersuits:
+pinduoduo	50	port:56826 5355	win:	ciphersuits:
+pinduoduo	50	port:61337 5355	win:	ciphersuits:
+pinduoduo	50	port:56551 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:56552 1900	win:	ciphersuits:
+pinduoduo	50	port:54567 5355	win:	ciphersuits:
+pinduoduo	50	port:64503 5355	win:	ciphersuits:
+pinduoduo	50	port:55431 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:49595 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:49412 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:51272 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:54565 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:52368 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:61421 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:55844 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:56297 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:64661 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:52313 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:59640 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:55379 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:52396 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:56309 1900	win:	ciphersuits:
+pinduoduo	50	port:57643 5355	win:	ciphersuits:
+pinduoduo	50	port:49592 5355	win:	ciphersuits:
+pinduoduo	50	port:60329 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:56179 1900	win:	ciphersuits:
+pinduoduo	50	port:52898 5355	win:	ciphersuits:
+pinduoduo	50	port:64778 5355	win:	ciphersuits:
+pinduoduo	50	port:56644 5355	win:	ciphersuits:
+pinduoduo	50	port:63864 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:60958 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:56514 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:51328 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:58709 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:63743 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:54525 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:49154 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:52123 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:51144 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:52376 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:56940 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:50206 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:64559 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:54137 1900	win:	ciphersuits:
+pinduoduo	50	port:59767 5355	win:	ciphersuits:
+pinduoduo	50	port:60340 5355	win:	ciphersuits:
+pinduoduo	50	port:55249 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:55250 1900	win:	ciphersuits:
+pinduoduo	50	port:64216 5355	win:	ciphersuits:
+pinduoduo	50	port:55470 5355	win:	ciphersuits:
+pinduoduo	50	port:55236 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:57430 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:53194 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:64359 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:60288 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:64448 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:51491 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:59446 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:58969 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:54190 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:51117 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:58417 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:61531 1900	win:	ciphersuits:
+pinduoduo	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:58101 1900	win:	ciphersuits:
+pinduoduo	50	port:58286 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:62581 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:52210 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	201	201	201	201	port:49152 1900	win:	ciphersuits:
+pinduoduo	50	port:54192 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:53151 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:51492 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:52413 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:49873 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:54573 1900	win:	ciphersuits:
+pinduoduo	50	port:60381 5355	win:	ciphersuits:
+pinduoduo	50	port:59498 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:65514 1900	win:	ciphersuits:
+pinduoduo	50	port:51303 5355	win:	ciphersuits:
+pinduoduo	50	port:62802 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:60961 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:55320 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:62706 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:59553 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:50968 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:56749 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:50666 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:58000 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:49334 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:56207 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:54731 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:59415 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:59419 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:64850 1900	win:	ciphersuits:
+pinduoduo	50	port:51777 5355	win:	ciphersuits:
+pinduoduo	50	port:60202 5355	win:	ciphersuits:
+pinduoduo	50	port:54882 5355	win:	ciphersuits:
+pinduoduo	50	port:51725 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:51726 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:54634 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:54638 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:59210 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:53394 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:53398 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:51017 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:53484 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:61342 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:53236 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:52158 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:61572 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:60743 1900	win:	ciphersuits:
+pinduoduo	50	port:55257 5355	win:	ciphersuits:
+pinduoduo	50	port:60765 5355	win:	ciphersuits:
+pinduoduo	50	port:61571 5355	win:	ciphersuits:
+pinduoduo	50	port:58911 5355	win:	ciphersuits:
+pinduoduo	50	port:55323 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:55324 1900	win:	ciphersuits:
+pinduoduo	54	port:61221 5355	win:	ciphersuits:
+pinduoduo	54	port:65313 5355	win:	ciphersuits:
+pinduoduo	59	port:55911 5355	win:	ciphersuits:
+pinduoduo	59	port:58568 5355	win:	ciphersuits:
+pinduoduo	60	port:60631 5355	win:	ciphersuits:
+pinduoduo	60	port:51600 5355	win:	ciphersuits:
+pinduoduo	54	port:59049 5355	win:	ciphersuits:
+pinduoduo	54	port:51012 5355	win:	ciphersuits:
+pinduoduo	50	port:55159 5355	win:	ciphersuits:
+pinduoduo	50	port:52737 5355	win:	ciphersuits:
+pinduoduo	50	port:54536 5355	win:	ciphersuits:
+pinduoduo	50	port:59858 5355	win:	ciphersuits:
+pinduoduo	50	port:62072 5355	win:	ciphersuits:
+pinduoduo	50	port:62788 5355	win:	ciphersuits:
+pinduoduo	50	port:61417 5355	win:	ciphersuits:
+pinduoduo	50	port:54121 5355	win:	ciphersuits:
+pinduoduo	50	port:55508 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:57469 1900	win:	ciphersuits:
+pinduoduo	50	port:57694 5355	win:	ciphersuits:
+pinduoduo	50	port:51541 5355	win:	ciphersuits:
+pinduoduo	50	port:58474 5355	win:	ciphersuits:
+pinduoduo	50	port:62404 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:62405 1900	win:	ciphersuits:
+pinduoduo	50	port:51663 5355	win:	ciphersuits:
+pinduoduo	50	port:65400 5355	win:	ciphersuits:
+pinduoduo	50	port:61061 5355	win:	ciphersuits:
+pinduoduo	50	port:60324 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:51825 1900	win:	ciphersuits:
+pinduoduo	50	port:61244 5355	win:	ciphersuits:
+pinduoduo	64	port:56253 5355	win:	ciphersuits:
+pinduoduo	64	port:59125 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:51841 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:56391 1900	win:	ciphersuits:
+pinduoduo	50	port:51191 5355	win:	ciphersuits:
+pinduoduo	50	port:62238 5355	win:	ciphersuits:
+pinduoduo	50	port:65527 5355	win:	ciphersuits:
+pinduoduo	61	port:54229 5355	win:	ciphersuits:
+pinduoduo	54	port:55012 5355	win:	ciphersuits:
+pinduoduo	54	port:61688 5355	win:	ciphersuits:
+pinduoduo	54	port:54784 5355	win:	ciphersuits:
+pinduoduo	54	port:54671 5355	win:	ciphersuits:
+pinduoduo	61	port:60811 5355	win:	ciphersuits:
+pinduoduo	54	port:62361 5355	win:	ciphersuits:
+pinduoduo	54	port:55755 5355	win:	ciphersuits:
+pinduoduo	50	port:56928 5355	win:	ciphersuits:
+pinduoduo	50	port:62692 5355	win:	ciphersuits:
+pinduoduo	50	port:54734 5355	win:	ciphersuits:
+pinduoduo	50	port:51884 5355	win:	ciphersuits:
+pinduoduo	50	port:52052 5355	win:	ciphersuits:
+pinduoduo	50	port:50954 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:50965 1900	win:	ciphersuits:
+pinduoduo	50	port:54424 5355	win:	ciphersuits:
+pinduoduo	50	port:60512 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:61712 1900	win:	ciphersuits:
+pinduoduo	50	port:56908 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:56919 1900	win:	ciphersuits:
+pinduoduo	50	port:55183 5355	win:	ciphersuits:
+pinduoduo	50	port:61455 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:55668 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:50294 1900	win:	ciphersuits:
+pinduoduo	50	port:59449 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:60183 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:54197 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:53096 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:55358 1900	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:58107 1900	win:	ciphersuits:
+pinduoduo	50	port:56633 5355	win:	ciphersuits:
+pinduoduo	50	port:52517 5355	win:	ciphersuits:
+pinduoduo	50	port:55430 5355	win:	ciphersuits:
+pinduoduo	201	201	201	201	port:58913 1900	win:	ciphersuits:
+pinduoduo	50	port:51678 5355	win:	ciphersuits:

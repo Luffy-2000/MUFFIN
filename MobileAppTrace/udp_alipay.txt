@@ -1,0 +1,44 @@
+alipay	202	202	202	202	port:52630 1900	win:	ciphersuits:
+alipay	202	202	202	202	port:51991 1900	win:	ciphersuits:
+alipay	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:49155 1900	win:	ciphersuits:
+alipay	202	202	202	202	port:57234 1900	win:	ciphersuits:
+alipay	202	202	202	202	port:56881 1900	win:	ciphersuits:
+alipay	32	port:43358 52566	win:	ciphersuits:
+alipay	32	port:38891 54418	win:	ciphersuits:
+alipay	202	202	202	202	port:50897 1900	win:	ciphersuits:
+alipay	32	port:42364 28610	win:	ciphersuits:
+alipay	202	202	202	202	port:60519 1900	win:	ciphersuits:
+alipay	32	port:42275 5200	win:	ciphersuits:
+alipay	202	202	202	202	port:56926 1900	win:	ciphersuits:
+alipay	202	202	202	202	port:56931 1900	win:	ciphersuits:
+alipay	202	202	202	202	port:65271 1900	win:	ciphersuits:
+alipay	202	202	202	202	port:51003 1900	win:	ciphersuits:
+alipay	32	port:45407 17095	win:	ciphersuits:
+alipay	50	port:49524 5355	win:	ciphersuits:
+alipay	50	port:61816 5355	win:	ciphersuits:
+alipay	50	port:51298 5355	win:	ciphersuits:
+alipay	50	port:51167 5355	win:	ciphersuits:
+alipay	50	port:51400 5355	win:	ciphersuits:
+alipay	50	port:50695 5355	win:	ciphersuits:
+alipay	32	port:39747 53118	win:	ciphersuits:
+alipay	50	port:52019 5355	win:	ciphersuits:
+alipay	50	port:56191 5355	win:	ciphersuits:
+alipay	32	port:48069 49249	win:	ciphersuits:
+alipay	32	port:46768 55739	win:	ciphersuits:
+alipay	50	port:61826 5355	win:	ciphersuits:
+alipay	32	port:49312 11154	win:	ciphersuits:
+alipay	50	port:57664 5355	win:	ciphersuits:
+alipay	32	port:44705 15018	win:	ciphersuits:
+alipay	32	port:38107 19623	win:	ciphersuits:
+alipay	32	port:47604 9784	win:	ciphersuits:
+alipay	32	port:44016 47339	win:	ciphersuits:
+alipay	32	port:48332 56392	win:	ciphersuits:
+alipay	32	port:44613 30327	win:	ciphersuits:
+alipay	32	port:48314 56396	win:	ciphersuits:
+alipay	32	port:38719 48648	win:	ciphersuits:
+alipay	32	port:46104 47679	win:	ciphersuits:
+alipay	32	port:45387 25554	win:	ciphersuits:
+alipay	32	port:39060 31611	win:	ciphersuits:
+alipay	32	port:38146 56984	win:	ciphersuits:
+alipay	32	port:41423 38967	win:	ciphersuits:
+alipay	32	port:47260 31374	win:	ciphersuits:

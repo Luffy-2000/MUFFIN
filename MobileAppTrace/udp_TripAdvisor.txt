@@ -1,0 +1,271 @@
+TripAdvisor	201	201	201	201	port:57663 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:59914 1900	win:	ciphersuits:
+TripAdvisor	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:57529 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57574 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:61579 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:61583 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:61587 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50347 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:64932 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:61137 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54648 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:62315 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:53258 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	201	201	201	201	port:59741 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:58614 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:51456 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:49632 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:60170 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:59340 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:51564 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:58556 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:58560 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:52514 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:61661 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:52350 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:52354 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:56384 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:61278 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54991 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:56057 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:56061 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:56128 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:62338 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:49154 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50942 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50946 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57322 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:53475 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:59174 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:62237 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:64601 1900	win:	ciphersuits:
+TripAdvisor	50	port:52042 5355	win:	ciphersuits:
+TripAdvisor	50	port:50551 5355	win:	ciphersuits:
+TripAdvisor	50	port:58068 5355	win:	ciphersuits:
+TripAdvisor	50	port:58193 5355	win:	ciphersuits:
+TripAdvisor	50	port:53042 5355	win:	ciphersuits:
+TripAdvisor	50	port:57708 5355	win:	ciphersuits:
+TripAdvisor	61	port:51636 5355	win:	ciphersuits:
+TripAdvisor	60	port:58891 5355	win:	ciphersuits:
+TripAdvisor	60	port:62262 5355	win:	ciphersuits:
+TripAdvisor	60	port:59900 5355	win:	ciphersuits:
+TripAdvisor	60	port:56692 5355	win:	ciphersuits:
+TripAdvisor	61	port:59157 5355	win:	ciphersuits:
+TripAdvisor	61	port:55666 5355	win:	ciphersuits:
+TripAdvisor	60	port:50636 5355	win:	ciphersuits:
+TripAdvisor	60	port:55453 5355	win:	ciphersuits:
+TripAdvisor	50	port:60167 5355	win:	ciphersuits:
+TripAdvisor	50	port:52016 5355	win:	ciphersuits:
+TripAdvisor	50	port:59687 5355	win:	ciphersuits:
+TripAdvisor	50	port:59326 5355	win:	ciphersuits:
+TripAdvisor	50	port:50819 5355	win:	ciphersuits:
+TripAdvisor	50	port:54121 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:58786 1900	win:	ciphersuits:
+TripAdvisor	50	port:55243 5355	win:	ciphersuits:
+TripAdvisor	50	port:53986 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50887 1900	win:	ciphersuits:
+TripAdvisor	50	port:59067 5355	win:	ciphersuits:
+TripAdvisor	50	port:55211 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50026 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:59135 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:59139 1900	win:	ciphersuits:
+TripAdvisor	50	port:51718 5355	win:	ciphersuits:
+TripAdvisor	50	port:50510 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50512 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:53430 1900	win:	ciphersuits:
+TripAdvisor	50	port:53429 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:49851 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:61036 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:61046 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:61051 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:56274 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50130 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50134 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50138 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:62269 1900	win:	ciphersuits:
+TripAdvisor	50	port:58978 5355	win:	ciphersuits:
+TripAdvisor	50	port:54733 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54735 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:60061 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54370 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:60619 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:60623 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:65467 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:59113 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54544 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54548 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54552 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57247 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50343 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50348 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:49998 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:64488 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:64788 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57664 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57668 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57672 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:64962 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50951 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50956 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54108 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54116 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:49194 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:52946 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:52950 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:52954 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:58095 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57451 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:51750 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:60326 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50648 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50652 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:59208 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:53723 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:56849 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54001 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:52872 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57554 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54467 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:55505 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:55509 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:55098 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:49360 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:51424 1900	win:	ciphersuits:
+TripAdvisor	50	port:60200 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:60201 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50661 1900	win:	ciphersuits:
+TripAdvisor	50	port:52281 5355	win:	ciphersuits:
+TripAdvisor	50	port:64708 5355	win:	ciphersuits:
+TripAdvisor	50	port:62072 5355	win:	ciphersuits:
+TripAdvisor	50	port:61054 5355	win:	ciphersuits:
+TripAdvisor	50	port:54168 5355	win:	ciphersuits:
+TripAdvisor	50	port:51378 5355	win:	ciphersuits:
+TripAdvisor	50	port:57071 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57072 1900	win:	ciphersuits:
+TripAdvisor	53	port:54999 5355	win:	ciphersuits:
+TripAdvisor	53	50	port:65384 5355	win:	ciphersuits:
+TripAdvisor	58	port:52536 5355	win:	ciphersuits:
+TripAdvisor	61	port:52882 5355	win:	ciphersuits:
+TripAdvisor	58	port:60535 5355	win:	ciphersuits:
+TripAdvisor	61	port:54372 5355	win:	ciphersuits:
+TripAdvisor	50	port:55416 5355	win:	ciphersuits:
+TripAdvisor	50	port:57389 5355	win:	ciphersuits:
+TripAdvisor	50	port:51519 5355	win:	ciphersuits:
+TripAdvisor	50	port:65230 5355	win:	ciphersuits:
+TripAdvisor	50	port:60140 5355	win:	ciphersuits:
+TripAdvisor	50	port:51186 5355	win:	ciphersuits:
+TripAdvisor	50	port:62323 5355	win:	ciphersuits:
+TripAdvisor	61	port:61728 5355	win:	ciphersuits:
+TripAdvisor	155	port:60923 1900	win:	ciphersuits:
+TripAdvisor	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	129	129	165	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	165	129	165	129	165	129	165	129	165	129	165	129	165	129	165	129	165	129	165	165	165	129	129	129	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:60935 1900	win:	ciphersuits:
+TripAdvisor	652	652	652	652	652	652	652	652	652	652	652	652	652	652	port:53357 3702	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:53360 1900	win:	ciphersuits:
+TripAdvisor	50	port:54148 5355	win:	ciphersuits:
+TripAdvisor	50	port:55310 5355	win:	ciphersuits:
+TripAdvisor	50	port:55067 5355	win:	ciphersuits:
+TripAdvisor	50	port:58304 5355	win:	ciphersuits:
+TripAdvisor	50	port:49406 5355	win:	ciphersuits:
+TripAdvisor	50	port:62475 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50301 1900	win:	ciphersuits:
+TripAdvisor	50	port:52637 5355	win:	ciphersuits:
+TripAdvisor	50	port:53945 5355	win:	ciphersuits:
+TripAdvisor	50	port:52223 5355	win:	ciphersuits:
+TripAdvisor	50	port:58453 5355	win:	ciphersuits:
+TripAdvisor	50	port:57234 5355	win:	ciphersuits:
+TripAdvisor	50	port:54474 5355	win:	ciphersuits:
+TripAdvisor	50	port:51529 5355	win:	ciphersuits:
+TripAdvisor	50	port:49826 5355	win:	ciphersuits:
+TripAdvisor	55	port:54509 5355	win:	ciphersuits:
+TripAdvisor	55	port:51231 5355	win:	ciphersuits:
+TripAdvisor	57	port:58020 5355	win:	ciphersuits:
+TripAdvisor	57	port:53017 5355	win:	ciphersuits:
+TripAdvisor	61	port:58486 5355	win:	ciphersuits:
+TripAdvisor	61	port:52226 5355	win:	ciphersuits:
+TripAdvisor	652	652	652	652	652	652	652	port:52227 3702	win:	ciphersuits:
+TripAdvisor	50	port:52797 5355	win:	ciphersuits:
+TripAdvisor	50	port:62214 5355	win:	ciphersuits:
+TripAdvisor	50	port:61478 5355	win:	ciphersuits:
+TripAdvisor	50	port:52950 5355	win:	ciphersuits:
+TripAdvisor	50	port:51670 5355	win:	ciphersuits:
+TripAdvisor	50	port:52056 5355	win:	ciphersuits:
+TripAdvisor	50	port:50411 5355	win:	ciphersuits:
+TripAdvisor	652	652	652	652	652	652	652	port:50390 3702	win:	ciphersuits:
+TripAdvisor	652	652	652	652	652	652	652	port:60390 3702	win:	ciphersuits:
+TripAdvisor	652	652	652	652	652	652	652	port:61266 3702	win:	ciphersuits:
+TripAdvisor	50	port:53673 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:52405 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57434 1900	win:	ciphersuits:
+TripAdvisor	50	port:58802 5355	win:	ciphersuits:
+TripAdvisor	50	port:56662 5355	win:	ciphersuits:
+TripAdvisor	50	port:57198 5355	win:	ciphersuits:
+TripAdvisor	50	port:59659 5355	win:	ciphersuits:
+TripAdvisor	50	port:60088 5355	win:	ciphersuits:
+TripAdvisor	50	port:51140 5355	win:	ciphersuits:
+TripAdvisor	50	port:65356 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:60185 1900	win:	ciphersuits:
+TripAdvisor	71	port:52486 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57149 1900	win:	ciphersuits:
+TripAdvisor	50	port:49955 5355	win:	ciphersuits:
+TripAdvisor	50	port:65501 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:60436 1900	win:	ciphersuits:
+TripAdvisor	50	port:54825 5355	win:	ciphersuits:
+TripAdvisor	50	port:64761 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50591 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:53876 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50758 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:61969 1900	win:	ciphersuits:
+TripAdvisor	50	port:49539 5355	win:	ciphersuits:
+TripAdvisor	50	port:56590 5355	win:	ciphersuits:
+TripAdvisor	50	port:56657 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:49694 1900	win:	ciphersuits:
+TripAdvisor	50	port:59767 5355	win:	ciphersuits:
+TripAdvisor	50	port:65066 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:65266 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:53611 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:56680 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:49999 1900	win:	ciphersuits:
+TripAdvisor	50	port:56176 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54974 1900	win:	ciphersuits:
+TripAdvisor	50	port:60569 5355	win:	ciphersuits:
+TripAdvisor	50	port:60679 5355	win:	ciphersuits:
+TripAdvisor	50	port:58326 5355	win:	ciphersuits:
+TripAdvisor	50	port:60137 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:60231 1900	win:	ciphersuits:
+TripAdvisor	50	port:57476 5355	win:	ciphersuits:
+TripAdvisor	50	port:52709 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:52474 1900	win:	ciphersuits:
+TripAdvisor	50	port:52838 5355	win:	ciphersuits:
+TripAdvisor	50	port:51345 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:55378 1900	win:	ciphersuits:
+TripAdvisor	51	port:58063 5355	win:	ciphersuits:
+TripAdvisor	51	port:58385 5355	win:	ciphersuits:
+TripAdvisor	51	port:49154 5355	win:	ciphersuits:
+TripAdvisor	51	port:59368 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:55860 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:51971 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:59545 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:53187 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:59385 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:52863 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57780 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57193 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:56031 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:60924 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:56150 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:52214 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:58222 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:59738 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:64588 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:58248 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:61277 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:49274 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:50336 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54219 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:49530 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:60299 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:52303 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:54581 1900	win:	ciphersuits:
+TripAdvisor	50	port:52059 5355	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:57530 1900	win:	ciphersuits:
+TripAdvisor	201	201	201	201	port:56362 1900	win:	ciphersuits:
+TripAdvisor	71	port:64551 5355	win:	ciphersuits:

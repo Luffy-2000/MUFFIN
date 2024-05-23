@@ -1,0 +1,439 @@
+yirendai	150	374	port:47319 19000	win:	ciphersuits:
+yirendai	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:49155 1900	win:	ciphersuits:
+yirendai	150	374	port:47743 19000	win:	ciphersuits:
+yirendai	150	374	port:49426 19000	win:	ciphersuits:
+yirendai	150	374	port:45526 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:62191 1900	win:	ciphersuits:
+yirendai	150	374	port:45699 19000	win:	ciphersuits:
+yirendai	150	374	port:37847 19000	win:	ciphersuits:
+yirendai	150	374	port:45676 19000	win:	ciphersuits:
+yirendai	150	374	port:47289 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:62195 1900	win:	ciphersuits:
+yirendai	150	374	port:45510 19000	win:	ciphersuits:
+yirendai	150	374	port:41762 19000	win:	ciphersuits:
+yirendai	150	374	port:41674 19000	win:	ciphersuits:
+yirendai	150	374	port:41875 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:51657 1900	win:	ciphersuits:
+yirendai	150	374	port:39595 19000	win:	ciphersuits:
+yirendai	150	374	port:45043 19000	win:	ciphersuits:
+yirendai	150	374	port:41240 19000	win:	ciphersuits:
+yirendai	150	374	port:43331 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:53820 1900	win:	ciphersuits:
+yirendai	150	374	port:40757 19000	win:	ciphersuits:
+yirendai	150	374	port:39107 19000	win:	ciphersuits:
+yirendai	150	374	port:43575 19000	win:	ciphersuits:
+yirendai	150	374	port:40059 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:53824 1900	win:	ciphersuits:
+yirendai	150	374	port:42550 19000	win:	ciphersuits:
+yirendai	150	374	port:40433 19000	win:	ciphersuits:
+yirendai	150	374	port:39170 19000	win:	ciphersuits:
+yirendai	150	374	port:38199 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:53828 1900	win:	ciphersuits:
+yirendai	150	374	port:39530 19000	win:	ciphersuits:
+yirendai	150	374	port:42615 19000	win:	ciphersuits:
+yirendai	150	374	port:37723 19000	win:	ciphersuits:
+yirendai	150	374	port:41044 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:52456 1900	win:	ciphersuits:
+yirendai	150	374	port:40912 19000	win:	ciphersuits:
+yirendai	150	374	port:40462 19000	win:	ciphersuits:
+yirendai	150	374	port:48509 19000	win:	ciphersuits:
+yirendai	50	port:62142 5355	win:	ciphersuits:
+yirendai	50	port:51361 5355	win:	ciphersuits:
+yirendai	50	port:51249 5355	win:	ciphersuits:
+yirendai	50	port:56725 5355	win:	ciphersuits:
+yirendai	50	port:58749 5355	win:	ciphersuits:
+yirendai	150	374	port:47746 19000	win:	ciphersuits:
+yirendai	50	port:53100 5355	win:	ciphersuits:
+yirendai	50	port:57832 5355	win:	ciphersuits:
+yirendai	50	port:52277 5355	win:	ciphersuits:
+yirendai	50	port:57176 5355	win:	ciphersuits:
+yirendai	50	port:50099 5355	win:	ciphersuits:
+yirendai	202	202	202	202	port:57181 1900	win:	ciphersuits:
+yirendai	150	374	port:39986 19000	win:	ciphersuits:
+yirendai	50	port:54696 5355	win:	ciphersuits:
+yirendai	50	port:64879 5355	win:	ciphersuits:
+yirendai	150	374	port:44020 19000	win:	ciphersuits:
+yirendai	150	374	port:42272 19000	win:	ciphersuits:
+yirendai	50	port:54133 5355	win:	ciphersuits:
+yirendai	150	374	port:40983 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:56681 1900	win:	ciphersuits:
+yirendai	150	374	port:49141 19000	win:	ciphersuits:
+yirendai	150	374	port:40211 19000	win:	ciphersuits:
+yirendai	150	374	port:39372 19000	win:	ciphersuits:
+yirendai	150	374	port:42600 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:51349 1900	win:	ciphersuits:
+yirendai	50	port:58691 5355	win:	ciphersuits:
+yirendai	150	374	port:44964 19000	win:	ciphersuits:
+yirendai	50	port:62015 5355	win:	ciphersuits:
+yirendai	50	port:53670 5355	win:	ciphersuits:
+yirendai	50	port:53821 5355	win:	ciphersuits:
+yirendai	50	port:53803 5355	win:	ciphersuits:
+yirendai	50	port:51426 5355	win:	ciphersuits:
+yirendai	50	port:56456 5355	win:	ciphersuits:
+yirendai	50	port:49973 5355	win:	ciphersuits:
+yirendai	150	374	port:40304 19000	win:	ciphersuits:
+yirendai	50	port:62059 5355	win:	ciphersuits:
+yirendai	50	port:49569 5355	win:	ciphersuits:
+yirendai	150	374	port:40207 19000	win:	ciphersuits:
+yirendai	150	374	port:47485 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:65305 1900	win:	ciphersuits:
+yirendai	150	374	port:48109 19000	win:	ciphersuits:
+yirendai	150	374	port:38089 19000	win:	ciphersuits:
+yirendai	150	374	port:40181 19000	win:	ciphersuits:
+yirendai	150	374	port:42430 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:57256 1900	win:	ciphersuits:
+yirendai	150	374	port:41819 19000	win:	ciphersuits:
+yirendai	150	374	port:41865 19000	win:	ciphersuits:
+yirendai	150	374	port:46196 19000	win:	ciphersuits:
+yirendai	150	374	port:38403 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:60586 1900	win:	ciphersuits:
+yirendai	150	374	port:48224 19000	win:	ciphersuits:
+yirendai	50	port:51356 5355	win:	ciphersuits:
+yirendai	150	374	port:39498 19000	win:	ciphersuits:
+yirendai	150	374	port:40105 19000	win:	ciphersuits:
+yirendai	150	374	port:47250 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:62409 1900	win:	ciphersuits:
+yirendai	150	374	port:41716 19000	win:	ciphersuits:
+yirendai	150	374	port:44146 19000	win:	ciphersuits:
+yirendai	150	374	port:45303 19000	win:	ciphersuits:
+yirendai	150	374	port:43657 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:52861 1900	win:	ciphersuits:
+yirendai	150	374	port:41797 19000	win:	ciphersuits:
+yirendai	150	374	port:43480 19000	win:	ciphersuits:
+yirendai	150	374	port:48311 19000	win:	ciphersuits:
+yirendai	150	374	port:40720 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:49819 1900	win:	ciphersuits:
+yirendai	150	374	port:45722 19000	win:	ciphersuits:
+yirendai	470	70	port:43238 19000	win:	ciphersuits:
+yirendai	150	374	port:42224 19000	win:	ciphersuits:
+yirendai	150	374	port:39497 19000	win:	ciphersuits:
+yirendai	150	374	port:43139 19000	win:	ciphersuits:
+yirendai	150	port:44031 19000	win:	ciphersuits:
+yirendai	150	374	port:47612 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:64625 1900	win:	ciphersuits:
+yirendai	150	374	port:46258 19000	win:	ciphersuits:
+yirendai	150	374	port:47327 19000	win:	ciphersuits:
+yirendai	150	374	port:38484 19000	win:	ciphersuits:
+yirendai	150	374	port:38930 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:62221 1900	win:	ciphersuits:
+yirendai	150	374	port:37388 19000	win:	ciphersuits:
+yirendai	150	374	port:42019 19000	win:	ciphersuits:
+yirendai	150	374	port:37405 19000	win:	ciphersuits:
+yirendai	150	374	port:39858 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:55795 1900	win:	ciphersuits:
+yirendai	150	port:37052 19000	win:	ciphersuits:
+yirendai	150	374	port:39807 19000	win:	ciphersuits:
+yirendai	150	374	port:48079 19000	win:	ciphersuits:
+yirendai	150	374	port:38805 19000	win:	ciphersuits:
+yirendai	150	374	port:45591 19000	win:	ciphersuits:
+yirendai	150	374	port:46729 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:56304 1900	win:	ciphersuits:
+yirendai	150	374	port:42091 19000	win:	ciphersuits:
+yirendai	150	374	port:37069 19000	win:	ciphersuits:
+yirendai	150	374	port:49045 19000	win:	ciphersuits:
+yirendai	150	374	port:44858 19000	win:	ciphersuits:
+yirendai	150	374	port:41743 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:52611 1900	win:	ciphersuits:
+yirendai	150	374	port:49526 19000	win:	ciphersuits:
+yirendai	150	374	port:41906 19000	win:	ciphersuits:
+yirendai	150	374	port:43249 19000	win:	ciphersuits:
+yirendai	150	374	port:39794 19000	win:	ciphersuits:
+yirendai	150	374	port:40360 19000	win:	ciphersuits:
+yirendai	150	374	port:49296 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:65422 1900	win:	ciphersuits:
+yirendai	150	374	port:46846 19000	win:	ciphersuits:
+yirendai	150	374	port:47982 19000	win:	ciphersuits:
+yirendai	150	374	port:49471 19000	win:	ciphersuits:
+yirendai	50	port:49778 5355	win:	ciphersuits:
+yirendai	50	port:52477 5355	win:	ciphersuits:
+yirendai	150	374	port:41793 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:61055 1900	win:	ciphersuits:
+yirendai	150	port:47047 19000	win:	ciphersuits:
+yirendai	150	374	port:49960 19000	win:	ciphersuits:
+yirendai	150	374	port:46854 19000	win:	ciphersuits:
+yirendai	150	port:46023 19000	win:	ciphersuits:
+yirendai	150	374	port:42175 19000	win:	ciphersuits:
+yirendai	150	374	port:43608 19000	win:	ciphersuits:
+yirendai	150	374	port:41855 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:57922 1900	win:	ciphersuits:
+yirendai	150	374	port:45466 19000	win:	ciphersuits:
+yirendai	50	port:65207 5355	win:	ciphersuits:
+yirendai	50	port:56413 5355	win:	ciphersuits:
+yirendai	150	374	port:37470 19000	win:	ciphersuits:
+yirendai	150	374	port:48849 19000	win:	ciphersuits:
+yirendai	150	374	port:48855 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:59814 1900	win:	ciphersuits:
+yirendai	150	374	port:38654 19000	win:	ciphersuits:
+yirendai	150	374	port:44745 19000	win:	ciphersuits:
+yirendai	150	374	port:49385 19000	win:	ciphersuits:
+yirendai	50	port:49784 5355	win:	ciphersuits:
+yirendai	50	port:61307 5355	win:	ciphersuits:
+yirendai	150	374	port:37809 19000	win:	ciphersuits:
+yirendai	50	port:53508 5355	win:	ciphersuits:
+yirendai	50	port:57288 5355	win:	ciphersuits:
+yirendai	50	port:57867 5355	win:	ciphersuits:
+yirendai	50	port:53808 5355	win:	ciphersuits:
+yirendai	202	202	202	202	port:59148 1900	win:	ciphersuits:
+yirendai	150	374	port:44510 19000	win:	ciphersuits:
+yirendai	150	374	port:49630 19000	win:	ciphersuits:
+yirendai	150	374	port:41828 19000	win:	ciphersuits:
+yirendai	150	374	port:39205 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:59638 1900	win:	ciphersuits:
+yirendai	150	374	port:49538 19000	win:	ciphersuits:
+yirendai	150	374	port:37040 19000	win:	ciphersuits:
+yirendai	150	374	port:43677 19000	win:	ciphersuits:
+yirendai	150	port:39637 19000	win:	ciphersuits:
+yirendai	150	374	port:38625 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:59662 1900	win:	ciphersuits:
+yirendai	150	374	port:38768 19000	win:	ciphersuits:
+yirendai	150	374	port:48260 19000	win:	ciphersuits:
+yirendai	150	374	port:41452 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:65344 1900	win:	ciphersuits:
+yirendai	150	374	port:44223 19000	win:	ciphersuits:
+yirendai	150	374	port:49986 19000	win:	ciphersuits:
+yirendai	150	374	port:45531 19000	win:	ciphersuits:
+yirendai	150	374	port:44245 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:52673 1900	win:	ciphersuits:
+yirendai	150	374	port:38050 19000	win:	ciphersuits:
+yirendai	150	374	port:46276 19000	win:	ciphersuits:
+yirendai	150	374	port:45494 19000	win:	ciphersuits:
+yirendai	150	374	port:41332 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:51129 1900	win:	ciphersuits:
+yirendai	150	374	port:39948 19000	win:	ciphersuits:
+yirendai	150	374	port:46749 19000	win:	ciphersuits:
+yirendai	150	374	port:43661 19000	win:	ciphersuits:
+yirendai	150	374	port:47946 19000	win:	ciphersuits:
+yirendai	150	374	port:40417 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:53866 1900	win:	ciphersuits:
+yirendai	150	374	port:38070 19000	win:	ciphersuits:
+yirendai	150	374	port:44139 19000	win:	ciphersuits:
+yirendai	150	374	port:38591 19000	win:	ciphersuits:
+yirendai	150	374	port:48004 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:55479 1900	win:	ciphersuits:
+yirendai	150	374	port:48816 19000	win:	ciphersuits:
+yirendai	150	374	port:49869 19000	win:	ciphersuits:
+yirendai	150	374	port:40110 19000	win:	ciphersuits:
+yirendai	150	374	port:48571 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:58919 1900	win:	ciphersuits:
+yirendai	150	374	port:40050 19000	win:	ciphersuits:
+yirendai	150	374	port:40736 19000	win:	ciphersuits:
+yirendai	150	374	port:42022 19000	win:	ciphersuits:
+yirendai	150	374	port:45619 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:49169 1900	win:	ciphersuits:
+yirendai	150	374	port:49199 19000	win:	ciphersuits:
+yirendai	150	374	port:41958 19000	win:	ciphersuits:
+yirendai	150	374	port:38668 19000	win:	ciphersuits:
+yirendai	150	374	port:48583 19000	win:	ciphersuits:
+yirendai	150	374	port:45174 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:49191 1900	win:	ciphersuits:
+yirendai	150	374	port:43680 19000	win:	ciphersuits:
+yirendai	150	374	port:45392 19000	win:	ciphersuits:
+yirendai	150	374	port:42068 19000	win:	ciphersuits:
+yirendai	150	374	port:48365 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:64990 1900	win:	ciphersuits:
+yirendai	150	374	port:38265 19000	win:	ciphersuits:
+yirendai	50	port:51261 5355	win:	ciphersuits:
+yirendai	150	374	port:37728 19000	win:	ciphersuits:
+yirendai	150	374	port:48874 19000	win:	ciphersuits:
+yirendai	150	374	port:49904 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:60080 1900	win:	ciphersuits:
+yirendai	150	374	port:48690 19000	win:	ciphersuits:
+yirendai	150	374	port:46279 19000	win:	ciphersuits:
+yirendai	150	374	port:42493 19000	win:	ciphersuits:
+yirendai	150	374	port:38895 19000	win:	ciphersuits:
+yirendai	150	374	port:44368 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:52377 1900	win:	ciphersuits:
+yirendai	150	port:44033 19000	win:	ciphersuits:
+yirendai	150	374	port:49642 19000	win:	ciphersuits:
+yirendai	150	374	port:46882 19000	win:	ciphersuits:
+yirendai	150	374	port:48338 19000	win:	ciphersuits:
+yirendai	150	port:48884 19000	win:	ciphersuits:
+yirendai	150	374	port:39418 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:52693 1900	win:	ciphersuits:
+yirendai	150	374	port:43891 19000	win:	ciphersuits:
+yirendai	150	374	port:44588 19000	win:	ciphersuits:
+yirendai	150	port:37715 19000	win:	ciphersuits:
+yirendai	150	port:44547 19000	win:	ciphersuits:
+yirendai	150	374	port:43399 19000	win:	ciphersuits:
+yirendai	150	374	port:37364 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:51114 1900	win:	ciphersuits:
+yirendai	150	374	port:38842 19000	win:	ciphersuits:
+yirendai	150	374	port:46329 19000	win:	ciphersuits:
+yirendai	150	374	port:47732 19000	win:	ciphersuits:
+yirendai	150	374	port:43263 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:53987 1900	win:	ciphersuits:
+yirendai	150	374	port:43596 19000	win:	ciphersuits:
+yirendai	150	374	port:45553 19000	win:	ciphersuits:
+yirendai	150	port:43903 19000	win:	ciphersuits:
+yirendai	150	374	port:44473 19000	win:	ciphersuits:
+yirendai	150	374	port:44382 19000	win:	ciphersuits:
+yirendai	150	374	port:43760 19000	win:	ciphersuits:
+yirendai	202	202	port:61609 1900	win:	ciphersuits:
+yirendai	150	port:48974 19000	win:	ciphersuits:
+yirendai	150	374	port:41574 19000	win:	ciphersuits:
+yirendai	150	374	port:43859 19000	win:	ciphersuits:
+yirendai	150	374	port:43450 19000	win:	ciphersuits:
+yirendai	150	374	port:40602 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:59382 1900	win:	ciphersuits:
+yirendai	150	374	port:47818 19000	win:	ciphersuits:
+yirendai	150	374	port:44992 19000	win:	ciphersuits:
+yirendai	150	374	port:47032 19000	win:	ciphersuits:
+yirendai	150	374	port:49038 19000	win:	ciphersuits:
+yirendai	150	374	port:42806 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:60343 1900	win:	ciphersuits:
+yirendai	150	374	port:48809 19000	win:	ciphersuits:
+yirendai	550	70	port:47316 19000	win:	ciphersuits:
+yirendai	150	port:45825 19000	win:	ciphersuits:
+yirendai	150	374	port:38460 19000	win:	ciphersuits:
+yirendai	150	374	port:47502 19000	win:	ciphersuits:
+yirendai	150	374	port:46997 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:49161 1900	win:	ciphersuits:
+yirendai	150	374	port:37779 19000	win:	ciphersuits:
+yirendai	150	374	port:48867 19000	win:	ciphersuits:
+yirendai	150	374	port:37779 19000	win:	ciphersuits:
+yirendai	150	port:38263 19000	win:	ciphersuits:
+yirendai	150	374	port:49487 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:56939 1900	win:	ciphersuits:
+yirendai	150	374	port:37456 19000	win:	ciphersuits:
+yirendai	150	374	port:46716 19000	win:	ciphersuits:
+yirendai	150	374	port:44144 19000	win:	ciphersuits:
+yirendai	150	374	port:39200 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:60580 1900	win:	ciphersuits:
+yirendai	150	374	port:38348 19000	win:	ciphersuits:
+yirendai	150	374	port:45790 19000	win:	ciphersuits:
+yirendai	150	374	port:41200 19000	win:	ciphersuits:
+yirendai	150	374	port:40359 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:61661 1900	win:	ciphersuits:
+yirendai	150	374	port:38677 19000	win:	ciphersuits:
+yirendai	150	374	port:40097 19000	win:	ciphersuits:
+yirendai	150	374	port:48041 19000	win:	ciphersuits:
+yirendai	150	374	port:38286 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:55711 1900	win:	ciphersuits:
+yirendai	150	374	port:39246 19000	win:	ciphersuits:
+yirendai	150	374	port:44642 19000	win:	ciphersuits:
+yirendai	150	374	port:46095 19000	win:	ciphersuits:
+yirendai	150	374	port:46906 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:51749 1900	win:	ciphersuits:
+yirendai	150	374	port:38258 19000	win:	ciphersuits:
+yirendai	150	374	port:37009 19000	win:	ciphersuits:
+yirendai	150	374	port:42192 19000	win:	ciphersuits:
+yirendai	150	374	port:48229 19000	win:	ciphersuits:
+yirendai	150	374	port:41140 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:61108 1900	win:	ciphersuits:
+yirendai	150	374	port:49534 19000	win:	ciphersuits:
+yirendai	150	374	port:45509 19000	win:	ciphersuits:
+yirendai	150	374	port:41404 19000	win:	ciphersuits:
+yirendai	150	374	port:43975 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:60299 1900	win:	ciphersuits:
+yirendai	150	374	port:38949 19000	win:	ciphersuits:
+yirendai	150	374	port:38650 19000	win:	ciphersuits:
+yirendai	150	374	port:48522 19000	win:	ciphersuits:
+yirendai	150	374	port:39487 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:57092 1900	win:	ciphersuits:
+yirendai	150	374	port:38815 19000	win:	ciphersuits:
+yirendai	150	port:39522 19000	win:	ciphersuits:
+yirendai	150	374	port:44071 19000	win:	ciphersuits:
+yirendai	150	374	port:40630 19000	win:	ciphersuits:
+yirendai	150	374	port:49538 19000	win:	ciphersuits:
+yirendai	150	374	port:48575 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:64671 1900	win:	ciphersuits:
+yirendai	150	port:44690 19000	win:	ciphersuits:
+yirendai	150	374	port:39743 19000	win:	ciphersuits:
+yirendai	150	374	port:49766 19000	win:	ciphersuits:
+yirendai	150	374	port:45916 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:49910 1900	win:	ciphersuits:
+yirendai	150	374	port:37114 19000	win:	ciphersuits:
+yirendai	150	374	port:39501 19000	win:	ciphersuits:
+yirendai	150	374	port:46854 19000	win:	ciphersuits:
+yirendai	150	374	port:39371 19000	win:	ciphersuits:
+yirendai	150	374	port:44391 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:60981 1900	win:	ciphersuits:
+yirendai	150	374	port:49894 19000	win:	ciphersuits:
+yirendai	150	374	port:46687 19000	win:	ciphersuits:
+yirendai	150	374	port:40199 19000	win:	ciphersuits:
+yirendai	150	374	port:49370 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:50685 1900	win:	ciphersuits:
+yirendai	150	374	port:49181 19000	win:	ciphersuits:
+yirendai	150	374	port:43549 19000	win:	ciphersuits:
+yirendai	150	port:44426 19000	win:	ciphersuits:
+yirendai	150	374	port:38625 19000	win:	ciphersuits:
+yirendai	150	374	port:49792 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:59065 1900	win:	ciphersuits:
+yirendai	150	374	port:38124 19000	win:	ciphersuits:
+yirendai	150	374	port:37088 19000	win:	ciphersuits:
+yirendai	150	port:37491 19000	win:	ciphersuits:
+yirendai	150	374	port:46589 19000	win:	ciphersuits:
+yirendai	150	port:41872 19000	win:	ciphersuits:
+yirendai	150	374	port:48794 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:61295 1900	win:	ciphersuits:
+yirendai	150	374	port:46482 19000	win:	ciphersuits:
+yirendai	150	374	port:42295 19000	win:	ciphersuits:
+yirendai	150	374	port:38490 19000	win:	ciphersuits:
+yirendai	150	374	port:38341 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:50257 1900	win:	ciphersuits:
+yirendai	150	374	port:48382 19000	win:	ciphersuits:
+yirendai	150	port:38270 19000	win:	ciphersuits:
+yirendai	150	374	port:38203 19000	win:	ciphersuits:
+yirendai	150	374	port:46690 19000	win:	ciphersuits:
+yirendai	150	port:42349 19000	win:	ciphersuits:
+yirendai	150	374	port:42962 19000	win:	ciphersuits:
+yirendai	150	374	port:38351 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:59623 1900	win:	ciphersuits:
+yirendai	150	374	port:45879 19000	win:	ciphersuits:
+yirendai	150	374	port:45120 19000	win:	ciphersuits:
+yirendai	150	port:37290 19000	win:	ciphersuits:
+yirendai	150	374	port:48815 19000	win:	ciphersuits:
+yirendai	150	port:47320 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:56766 1900	win:	ciphersuits:
+yirendai	150	374	port:44927 19000	win:	ciphersuits:
+yirendai	150	port:49811 19000	win:	ciphersuits:
+yirendai	150	374	port:39556 19000	win:	ciphersuits:
+yirendai	150	port:39248 19000	win:	ciphersuits:
+yirendai	150	374	port:45307 19000	win:	ciphersuits:
+yirendai	150	374	port:48639 19000	win:	ciphersuits:
+yirendai	150	374	port:43816 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:56777 1900	win:	ciphersuits:
+yirendai	150	374	port:47127 19000	win:	ciphersuits:
+yirendai	150	374	port:45659 19000	win:	ciphersuits:
+yirendai	150	port:37863 19000	win:	ciphersuits:
+yirendai	150	374	port:48830 19000	win:	ciphersuits:
+yirendai	150	374	port:37466 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:65523 1900	win:	ciphersuits:
+yirendai	150	374	port:49085 19000	win:	ciphersuits:
+yirendai	150	374	port:45572 19000	win:	ciphersuits:
+yirendai	150	374	port:47650 19000	win:	ciphersuits:
+yirendai	150	374	port:38483 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:51532 1900	win:	ciphersuits:
+yirendai	150	374	port:37107 19000	win:	ciphersuits:
+yirendai	150	port:49612 19000	win:	ciphersuits:
+yirendai	150	374	port:45654 19000	win:	ciphersuits:
+yirendai	150	374	port:47154 19000	win:	ciphersuits:
+yirendai	150	374	port:38008 19000	win:	ciphersuits:
+yirendai	150	port:44344 19000	win:	ciphersuits:
+yirendai	150	374	port:44999 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:51320 1900	win:	ciphersuits:
+yirendai	150	374	port:42060 19000	win:	ciphersuits:
+yirendai	150	374	port:39553 19000	win:	ciphersuits:
+yirendai	150	374	port:48282 19000	win:	ciphersuits:
+yirendai	150	374	port:38301 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:60870 1900	win:	ciphersuits:
+yirendai	150	374	port:41948 19000	win:	ciphersuits:
+yirendai	150	port:47226 19000	win:	ciphersuits:
+yirendai	150	374	port:47754 19000	win:	ciphersuits:
+yirendai	150	374	port:38088 19000	win:	ciphersuits:
+yirendai	150	374	port:45614 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:58080 1900	win:	ciphersuits:
+yirendai	150	374	port:47192 19000	win:	ciphersuits:
+yirendai	150	374	port:48356 19000	win:	ciphersuits:
+yirendai	150	374	port:39082 19000	win:	ciphersuits:
+yirendai	150	374	port:44534 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:65008 1900	win:	ciphersuits:
+yirendai	150	374	port:42444 19000	win:	ciphersuits:
+yirendai	150	port:46893 19000	win:	ciphersuits:
+yirendai	150	374	port:42739 19000	win:	ciphersuits:
+yirendai	150	374	port:47030 19000	win:	ciphersuits:
+yirendai	150	374	port:41951 19000	win:	ciphersuits:
+yirendai	150	374	port:40535 19000	win:	ciphersuits:
+yirendai	202	202	202	202	port:51035 1900	win:	ciphersuits:
+yirendai	150	374	port:48350 19000	win:	ciphersuits:
+yirendai	150	374	port:38442 19000	win:	ciphersuits:

@@ -1,0 +1,250 @@
+Reddit	50	port:61963 5355	win:	ciphersuits:
+Reddit	50	port:61188 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:61191 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:54282 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:55937 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:59913 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:57790 1900	win:	ciphersuits:
+Reddit	165	165	165	port:60235 1900	win:	ciphersuits:
+Reddit	201	201	201	port:62015 1900	win:	ciphersuits:
+Reddit	155	155	129	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	165	129	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	129	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:62009 1900	win:	ciphersuits:
+Reddit	652	652	652	652	652	652	652	port:62019 3702	win:	ciphersuits:
+Reddit	50	port:60616 5355	win:	ciphersuits:
+Reddit	50	port:60465 5355	win:	ciphersuits:
+Reddit	50	port:61330 5355	win:	ciphersuits:
+Reddit	50	port:56348 5355	win:	ciphersuits:
+Reddit	50	port:51376 5355	win:	ciphersuits:
+Reddit	50	port:55519 5355	win:	ciphersuits:
+Reddit	50	port:57068 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:61770 1900	win:	ciphersuits:
+Reddit	50	port:55020 5355	win:	ciphersuits:
+Reddit	50	port:61110 5355	win:	ciphersuits:
+Reddit	50	port:58455 5355	win:	ciphersuits:
+Reddit	50	port:62188 5355	win:	ciphersuits:
+Reddit	50	port:50336 5355	win:	ciphersuits:
+Reddit	50	port:60656 5355	win:	ciphersuits:
+Reddit	50	port:52627 5355	win:	ciphersuits:
+Reddit	50	port:56054 5355	win:	ciphersuits:
+Reddit	54	port:53530 5355	win:	ciphersuits:
+Reddit	55	50	port:57197 5355	win:	ciphersuits:
+Reddit	54	port:50048 5355	win:	ciphersuits:
+Reddit	55	port:58518 5355	win:	ciphersuits:
+Reddit	55	port:54187 5355	win:	ciphersuits:
+Reddit	50	port:54589 5355	win:	ciphersuits:
+Reddit	50	port:62465 5355	win:	ciphersuits:
+Reddit	50	port:54627 5355	win:	ciphersuits:
+Reddit	50	port:51322 5355	win:	ciphersuits:
+Reddit	50	port:57416 5355	win:	ciphersuits:
+Reddit	71	port:54748 5355	win:	ciphersuits:
+Reddit	71	port:54581 5355	win:	ciphersuits:
+Reddit	50	port:65090 5355	win:	ciphersuits:
+Reddit	50	port:50683 5355	win:	ciphersuits:
+Reddit	50	port:56569 5355	win:	ciphersuits:
+Reddit	50	port:57747 5355	win:	ciphersuits:
+Reddit	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	port:57772 1900	win:	ciphersuits:
+Reddit	50	port:61222 5355	win:	ciphersuits:
+Reddit	50	port:54191 5355	win:	ciphersuits:
+Reddit	165	165	165	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:54199 1900	win:	ciphersuits:
+Reddit	50	port:53420 5355	win:	ciphersuits:
+Reddit	50	port:60080 5355	win:	ciphersuits:
+Reddit	50	port:54417 5355	win:	ciphersuits:
+Reddit	50	port:49783 5355	win:	ciphersuits:
+Reddit	50	port:50878 5355	win:	ciphersuits:
+Reddit	50	port:62020 5355	win:	ciphersuits:
+Reddit	50	port:51978 5355	win:	ciphersuits:
+Reddit	50	port:59359 5355	win:	ciphersuits:
+Reddit	50	port:65204 5355	win:	ciphersuits:
+Reddit	50	port:53270 5355	win:	ciphersuits:
+Reddit	50	port:49929 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:64490 1900	win:	ciphersuits:
+Reddit	50	port:54147 5355	win:	ciphersuits:
+Reddit	55	port:61233 5355	win:	ciphersuits:
+Reddit	55	port:59354 5355	win:	ciphersuits:
+Reddit	60	port:64761 5355	win:	ciphersuits:
+Reddit	60	port:59443 5355	win:	ciphersuits:
+Reddit	50	port:53934 5355	win:	ciphersuits:
+Reddit	50	port:57921 5355	win:	ciphersuits:
+Reddit	50	port:55485 5355	win:	ciphersuits:
+Reddit	50	port:60505 5355	win:	ciphersuits:
+Reddit	50	port:57884 5355	win:	ciphersuits:
+Reddit	50	port:49426 5355	win:	ciphersuits:
+Reddit	50	port:58134 5355	win:	ciphersuits:
+Reddit	50	port:51415 5355	win:	ciphersuits:
+Reddit	50	port:53854 5355	win:	ciphersuits:
+Reddit	50	port:51611 5355	win:	ciphersuits:
+Reddit	50	port:59870 5355	win:	ciphersuits:
+Reddit	50	port:53231 5355	win:	ciphersuits:
+Reddit	50	port:64553 5355	win:	ciphersuits:
+Reddit	50	port:53115 5355	win:	ciphersuits:
+Reddit	50	port:58154 5355	win:	ciphersuits:
+Reddit	50	port:62107 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:58059 1900	win:	ciphersuits:
+Reddit	50	port:62286 5355	win:	ciphersuits:
+Reddit	50	port:50185 5355	win:	ciphersuits:
+Reddit	50	port:61975 5355	win:	ciphersuits:
+Reddit	50	port:53287 5355	win:	ciphersuits:
+Reddit	71	port:58170 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:58615 1900	win:	ciphersuits:
+Reddit	50	port:59693 5355	win:	ciphersuits:
+Reddit	50	port:53035 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:60832 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:51293 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:56527 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:52472 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:50566 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:52957 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:64941 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:57249 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:56148 1900	win:	ciphersuits:
+Reddit	50	port:55550 5355	win:	ciphersuits:
+Reddit	50	port:60304 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:61288 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:53662 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:56358 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:62315 1900	win:	ciphersuits:
+Reddit	50	port:53313 5355	win:	ciphersuits:
+Reddit	50	port:53858 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:62248 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:56174 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:50270 1900	win:	ciphersuits:
+Reddit	71	port:60141 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:64821 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:54049 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:50113 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:51381 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:58721 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:64767 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:60003 1900	win:	ciphersuits:
+Reddit	50	port:57971 5355	win:	ciphersuits:
+Reddit	50	port:64967 5355	win:	ciphersuits:
+Reddit	50	port:59406 5355	win:	ciphersuits:
+Reddit	50	port:54976 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:50994 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:59385 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:51739 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:56972 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:61730 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:57684 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:60751 1900	win:	ciphersuits:
+Reddit	50	port:50994 5355	win:	ciphersuits:
+Reddit	50	port:60357 5355	win:	ciphersuits:
+Reddit	50	port:57801 5355	win:	ciphersuits:
+Reddit	50	port:65302 5355	win:	ciphersuits:
+Reddit	50	port:57263 5355	win:	ciphersuits:
+Reddit	50	port:51128 5355	win:	ciphersuits:
+Reddit	50	port:60416 5355	win:	ciphersuits:
+Reddit	59	port:51805 5355	win:	ciphersuits:
+Reddit	59	port:50781 5355	win:	ciphersuits:
+Reddit	59	port:59896 5355	win:	ciphersuits:
+Reddit	61	port:58636 5355	win:	ciphersuits:
+Reddit	61	port:57831 5355	win:	ciphersuits:
+Reddit	59	port:62087 5355	win:	ciphersuits:
+Reddit	59	port:54380 5355	win:	ciphersuits:
+Reddit	50	port:61651 5355	win:	ciphersuits:
+Reddit	50	port:57809 5355	win:	ciphersuits:
+Reddit	50	port:55512 5355	win:	ciphersuits:
+Reddit	50	port:51912 5355	win:	ciphersuits:
+Reddit	50	port:54761 5355	win:	ciphersuits:
+Reddit	50	port:54322 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:64495 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:62231 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:49358 1900	win:	ciphersuits:
+Reddit	71	port:53411 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:61659 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:61755 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:57104 1900	win:	ciphersuits:
+Reddit	50	port:54766 5355	win:	ciphersuits:
+Reddit	50	port:56767 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:51008 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:58976 1900	win:	ciphersuits:
+Reddit	50	port:51601 5355	win:	ciphersuits:
+Reddit	50	port:58927 5355	win:	ciphersuits:
+Reddit	50	port:58832 5355	win:	ciphersuits:
+Reddit	50	port:60128 5355	win:	ciphersuits:
+Reddit	50	port:53246 5355	win:	ciphersuits:
+Reddit	50	port:56272 5355	win:	ciphersuits:
+Reddit	50	port:58698 5355	win:	ciphersuits:
+Reddit	57	port:60115 5355	win:	ciphersuits:
+Reddit	57	port:50970 5355	win:	ciphersuits:
+Reddit	55	port:54760 5355	win:	ciphersuits:
+Reddit	53	port:57918 5355	win:	ciphersuits:
+Reddit	53	port:50503 5355	win:	ciphersuits:
+Reddit	57	port:58313 5355	win:	ciphersuits:
+Reddit	57	port:55919 5355	win:	ciphersuits:
+Reddit	50	port:53777 5355	win:	ciphersuits:
+Reddit	50	port:57288 5355	win:	ciphersuits:
+Reddit	50	port:54464 5355	win:	ciphersuits:
+Reddit	50	port:61998 5355	win:	ciphersuits:
+Reddit	50	port:51941 5355	win:	ciphersuits:
+Reddit	50	port:57331 5355	win:	ciphersuits:
+Reddit	50	port:62413 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:65411 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:57663 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:50589 1900	win:	ciphersuits:
+Reddit	50	port:55424 5355	win:	ciphersuits:
+Reddit	50	port:50587 5355	win:	ciphersuits:
+Reddit	50	port:57164 5355	win:	ciphersuits:
+Reddit	50	port:58346 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:58567 1900	win:	ciphersuits:
+Reddit	50	port:53051 5355	win:	ciphersuits:
+Reddit	50	port:64778 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:53781 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:50248 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:60118 1900	win:	ciphersuits:
+Reddit	50	port:55097 5355	win:	ciphersuits:
+Reddit	50	port:62285 5355	win:	ciphersuits:
+Reddit	50	port:61977 5355	win:	ciphersuits:
+Reddit	50	port:55103 5355	win:	ciphersuits:
+Reddit	50	port:61600 5355	win:	ciphersuits:
+Reddit	50	port:56706 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:60072 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:61849 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:55864 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:65248 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:49924 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:50899 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:57147 1900	win:	ciphersuits:
+Reddit	50	port:60420 5355	win:	ciphersuits:
+Reddit	50	port:64804 5355	win:	ciphersuits:
+Reddit	50	port:54624 5355	win:	ciphersuits:
+Reddit	50	port:59086 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:50934 1900	win:	ciphersuits:
+Reddit	71	port:49797 5355	win:	ciphersuits:
+Reddit	50	port:59936 5355	win:	ciphersuits:
+Reddit	50	port:50893 5355	win:	ciphersuits:
+Reddit	50	port:60690 5355	win:	ciphersuits:
+Reddit	50	port:51359 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:58442 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:57607 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:52489 1900	win:	ciphersuits:
+Reddit	50	port:58922 5355	win:	ciphersuits:
+Reddit	50	port:52487 5355	win:	ciphersuits:
+Reddit	50	port:53329 5355	win:	ciphersuits:
+Reddit	50	port:60558 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:61063 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:53349 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:50690 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:57074 1900	win:	ciphersuits:
+Reddit	50	port:53875 5355	win:	ciphersuits:
+Reddit	50	port:53923 5355	win:	ciphersuits:
+Reddit	50	port:65068 5355	win:	ciphersuits:
+Reddit	201	201	201	201	port:65086 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:57973 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:50041 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:60950 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:57099 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:62314 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:55620 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:50006 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:54930 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:49556 1900	win:	ciphersuits:
+Reddit	201	201	201	201	port:57593 1900	win:	ciphersuits:
+Reddit	50	port:59951 5355	win:	ciphersuits:
+Reddit	50	port:50664 5355	win:	ciphersuits:
+Reddit	50	port:55867 5355	win:	ciphersuits:
+Reddit	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	155	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:59397 1900	win:	ciphersuits:
+Reddit	50	port:58422 5355	win:	ciphersuits:
+Reddit	50	port:65079 5355	win:	ciphersuits:
+Reddit	50	port:50649 5355	win:	ciphersuits:
+Reddit	50	port:49877 5355	win:	ciphersuits:
+Reddit	50	port:56694 5355	win:	ciphersuits:

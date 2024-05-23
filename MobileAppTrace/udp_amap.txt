@@ -1,0 +1,166 @@
+amap	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:56631 1900	win:	ciphersuits:
+amap	50	port:59546 5355	win:	ciphersuits:
+amap	50	port:60542 5355	win:	ciphersuits:
+amap	50	port:61259 5355	win:	ciphersuits:
+amap	50	port:64475 5355	win:	ciphersuits:
+amap	50	port:49724 5355	win:	ciphersuits:
+amap	50	port:60041 5355	win:	ciphersuits:
+amap	50	port:49739 5355	win:	ciphersuits:
+amap	50	port:52351 5355	win:	ciphersuits:
+amap	50	port:53774 5355	win:	ciphersuits:
+amap	50	port:65214 5355	win:	ciphersuits:
+amap	50	port:57338 5355	win:	ciphersuits:
+amap	48	48	48	48	48	port:39958 3478	win:	ciphersuits:
+amap	48	48	48	48	48	port:40719 3478	win:	ciphersuits:
+amap	50	port:61577 5355	win:	ciphersuits:
+amap	50	port:53126 5355	win:	ciphersuits:
+amap	50	port:52120 5355	win:	ciphersuits:
+amap	50	port:64549 5355	win:	ciphersuits:
+amap	50	port:54722 5355	win:	ciphersuits:
+amap	50	port:50363 5355	win:	ciphersuits:
+amap	202	202	202	202	port:50376 1900	win:	ciphersuits:
+amap	56	port:59734 5355	win:	ciphersuits:
+amap	54	port:54057 5355	win:	ciphersuits:
+amap	54	port:53787 5355	win:	ciphersuits:
+amap	58	port:59632 5355	win:	ciphersuits:
+amap	58	port:60460 5355	win:	ciphersuits:
+amap	50	port:59043 5355	win:	ciphersuits:
+amap	50	port:62350 5355	win:	ciphersuits:
+amap	50	port:52274 5355	win:	ciphersuits:
+amap	50	port:56466 5355	win:	ciphersuits:
+amap	50	port:61033 5355	win:	ciphersuits:
+amap	50	port:49659 5355	win:	ciphersuits:
+amap	50	port:59270 5355	win:	ciphersuits:
+amap	50	port:59112 5355	win:	ciphersuits:
+amap	50	port:60930 5355	win:	ciphersuits:
+amap	50	port:57885 5355	win:	ciphersuits:
+amap	202	202	202	202	port:62249 1900	win:	ciphersuits:
+amap	50	port:57891 5355	win:	ciphersuits:
+amap	50	port:62320 5355	win:	ciphersuits:
+amap	202	202	202	202	port:49767 1900	win:	ciphersuits:
+amap	50	port:51448 5355	win:	ciphersuits:
+amap	50	port:62314 5355	win:	ciphersuits:
+amap	50	port:53994 5355	win:	ciphersuits:
+amap	50	port:52152 5355	win:	ciphersuits:
+amap	50	port:57456 5355	win:	ciphersuits:
+amap	50	port:50585 5355	win:	ciphersuits:
+amap	50	port:53456 5355	win:	ciphersuits:
+amap	50	port:49473 5355	win:	ciphersuits:
+amap	50	port:58225 5355	win:	ciphersuits:
+amap	50	port:55086 5355	win:	ciphersuits:
+amap	50	port:52954 5355	win:	ciphersuits:
+amap	50	port:59873 5355	win:	ciphersuits:
+amap	50	port:49943 5355	win:	ciphersuits:
+amap	50	port:49219 5355	win:	ciphersuits:
+amap	50	port:65486 5355	win:	ciphersuits:
+amap	50	port:59657 5355	win:	ciphersuits:
+amap	50	port:56580 5355	win:	ciphersuits:
+amap	202	202	202	202	port:62393 1900	win:	ciphersuits:
+amap	50	port:54168 5355	win:	ciphersuits:
+amap	50	port:56186 5355	win:	ciphersuits:
+amap	50	port:51776 5355	win:	ciphersuits:
+amap	50	port:57323 5355	win:	ciphersuits:
+amap	50	port:59974 5355	win:	ciphersuits:
+amap	50	port:62218 5355	win:	ciphersuits:
+amap	50	port:60241 5355	win:	ciphersuits:
+amap	50	port:55521 5355	win:	ciphersuits:
+amap	50	port:65354 5355	win:	ciphersuits:
+amap	202	202	202	202	port:51334 1900	win:	ciphersuits:
+amap	50	port:55124 5355	win:	ciphersuits:
+amap	50	port:51954 5355	win:	ciphersuits:
+amap	202	202	202	202	port:59858 1900	win:	ciphersuits:
+amap	202	202	202	202	port:53842 1900	win:	ciphersuits:
+amap	48	48	48	48	48	port:39887 3478	win:	ciphersuits:
+amap	202	202	202	202	port:52237 1900	win:	ciphersuits:
+amap	202	202	202	202	port:57509 1900	win:	ciphersuits:
+amap	202	202	202	202	port:51697 1900	win:	ciphersuits:
+amap	202	202	202	202	port:53578 1900	win:	ciphersuits:
+amap	202	202	202	202	port:60139 1900	win:	ciphersuits:
+amap	202	202	202	202	port:61885 1900	win:	ciphersuits:
+amap	50	port:56880 5355	win:	ciphersuits:
+amap	50	port:51702 5355	win:	ciphersuits:
+amap	202	202	202	202	port:49574 1900	win:	ciphersuits:
+amap	50	port:59052 5355	win:	ciphersuits:
+amap	50	port:50070 5355	win:	ciphersuits:
+amap	50	port:51967 5355	win:	ciphersuits:
+amap	50	port:50093 5355	win:	ciphersuits:
+amap	50	port:53974 5355	win:	ciphersuits:
+amap	202	202	202	202	port:50389 1900	win:	ciphersuits:
+amap	50	port:61393 5355	win:	ciphersuits:
+amap	50	port:49523 5355	win:	ciphersuits:
+amap	202	202	202	202	port:54536 1900	win:	ciphersuits:
+amap	202	202	202	202	port:55522 1900	win:	ciphersuits:
+amap	202	202	202	202	port:61299 1900	win:	ciphersuits:
+amap	202	202	202	202	port:60231 1900	win:	ciphersuits:
+amap	202	202	202	202	port:50333 1900	win:	ciphersuits:
+amap	202	202	202	202	port:49263 1900	win:	ciphersuits:
+amap	202	202	202	202	port:58983 1900	win:	ciphersuits:
+amap	202	202	202	202	port:53179 1900	win:	ciphersuits:
+amap	202	202	202	202	port:57964 1900	win:	ciphersuits:
+amap	202	202	202	202	port:50218 1900	win:	ciphersuits:
+amap	202	202	202	202	port:53963 1900	win:	ciphersuits:
+amap	48	48	48	48	48	port:48433 3478	win:	ciphersuits:
+amap	202	202	202	202	port:53643 1900	win:	ciphersuits:
+amap	202	202	202	202	port:58948 1900	win:	ciphersuits:
+amap	50	port:57568 5355	win:	ciphersuits:
+amap	202	202	202	202	port:58582 1900	win:	ciphersuits:
+amap	50	port:50774 5355	win:	ciphersuits:
+amap	50	port:56743 5355	win:	ciphersuits:
+amap	50	port:54443 5355	win:	ciphersuits:
+amap	50	port:65535 5355	win:	ciphersuits:
+amap	202	202	202	202	port:61143 1900	win:	ciphersuits:
+amap	50	port:55636 5355	win:	ciphersuits:
+amap	50	port:60084 5355	win:	ciphersuits:
+amap	202	202	202	202	port:57224 1900	win:	ciphersuits:
+amap	202	202	202	202	port:53548 1900	win:	ciphersuits:
+amap	202	202	202	202	port:60194 1900	win:	ciphersuits:
+amap	202	202	202	202	port:64464 1900	win:	ciphersuits:
+amap	202	202	202	202	port:65372 1900	win:	ciphersuits:
+amap	202	202	202	202	port:49958 1900	win:	ciphersuits:
+amap	202	202	202	202	port:58312 1900	win:	ciphersuits:
+amap	202	202	202	202	port:57947 1900	win:	ciphersuits:
+amap	202	202	202	202	port:60893 1900	win:	ciphersuits:
+amap	202	202	202	202	port:56715 1900	win:	ciphersuits:
+amap	202	202	202	202	port:61623 1900	win:	ciphersuits:
+amap	202	202	202	202	port:60968 1900	win:	ciphersuits:
+amap	202	202	202	202	port:56892 1900	win:	ciphersuits:
+amap	50	port:61447 5355	win:	ciphersuits:
+amap	50	port:50944 5355	win:	ciphersuits:
+amap	50	port:54317 5355	win:	ciphersuits:
+amap	50	port:65490 5355	win:	ciphersuits:
+amap	202	202	202	202	port:60648 1900	win:	ciphersuits:
+amap	50	port:57706 5355	win:	ciphersuits:
+amap	50	port:60240 5355	win:	ciphersuits:
+amap	50	port:49273 5355	win:	ciphersuits:
+amap	50	port:59541 5355	win:	ciphersuits:
+amap	50	port:60380 5355	win:	ciphersuits:
+amap	50	port:55300 5355	win:	ciphersuits:
+amap	202	202	202	202	port:55963 1900	win:	ciphersuits:
+amap	50	port:58388 5355	win:	ciphersuits:
+amap	202	202	202	202	port:49152 1900	win:	ciphersuits:
+amap	202	202	202	202	port:53865 1900	win:	ciphersuits:
+amap	202	202	202	202	port:56238 1900	win:	ciphersuits:
+amap	202	202	202	202	port:54192 1900	win:	ciphersuits:
+amap	202	202	202	202	port:51210 1900	win:	ciphersuits:
+amap	202	202	202	202	port:58725 1900	win:	ciphersuits:
+amap	202	202	202	202	port:61850 1900	win:	ciphersuits:
+amap	50	port:59091 5355	win:	ciphersuits:
+amap	202	202	202	202	port:61602 1900	win:	ciphersuits:
+amap	202	202	202	202	port:55819 1900	win:	ciphersuits:
+amap	202	202	202	202	port:56413 1900	win:	ciphersuits:
+amap	202	202	202	202	port:61212 1900	win:	ciphersuits:
+amap	202	202	202	202	port:55316 1900	win:	ciphersuits:
+amap	54	port:61741 5355	win:	ciphersuits:
+amap	54	port:64437 5355	win:	ciphersuits:
+amap	54	port:54692 5355	win:	ciphersuits:
+amap	202	202	202	202	port:56716 1900	win:	ciphersuits:
+amap	202	202	202	202	port:49170 1900	win:	ciphersuits:
+amap	50	port:51089 5355	win:	ciphersuits:
+amap	50	port:51483 5355	win:	ciphersuits:
+amap	50	port:57090 5355	win:	ciphersuits:
+amap	202	202	202	202	port:57543 1900	win:	ciphersuits:
+amap	50	port:53279 5355	win:	ciphersuits:
+amap	50	port:60514 5355	win:	ciphersuits:
+amap	202	202	202	202	port:58547 1900	win:	ciphersuits:
+amap	48	48	48	48	48	port:49623 3478	win:	ciphersuits:
+amap	202	202	202	202	port:60569 1900	win:	ciphersuits:

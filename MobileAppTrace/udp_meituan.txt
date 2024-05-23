@@ -1,0 +1,247 @@
+meituan	50	port:52698 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:52932 1900	win:	ciphersuits:
+meituan	50	port:56254 5355	win:	ciphersuits:
+meituan	50	port:58686 5355	win:	ciphersuits:
+meituan	50	port:61170 5355	win:	ciphersuits:
+meituan	50	port:64838 5355	win:	ciphersuits:
+meituan	50	port:55768 5355	win:	ciphersuits:
+meituan	50	port:58721 5355	win:	ciphersuits:
+meituan	50	port:53985 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:61829 1900	win:	ciphersuits:
+meituan	50	port:56105 5355	win:	ciphersuits:
+meituan	50	port:61683 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:55506 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:54438 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:54442 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:53410 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:57785 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:64916 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:64920 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:54770 1900	win:	ciphersuits:
+meituan	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:49625 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:59136 1900	win:	ciphersuits:
+meituan	50	port:54238 5355	win:	ciphersuits:
+meituan	50	port:58555 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:58556 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:65463 1900	win:	ciphersuits:
+meituan	50	port:62655 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:57958 1900	win:	ciphersuits:
+meituan	50	port:60104 5355	win:	ciphersuits:
+meituan	50	port:58007 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:53442 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:52264 1900	win:	ciphersuits:
+meituan	50	port:52784 5355	win:	ciphersuits:
+meituan	50	port:59129 5355	win:	ciphersuits:
+meituan	50	port:50349 5355	win:	ciphersuits:
+meituan	50	port:58986 5355	win:	ciphersuits:
+meituan	50	port:54082 5355	win:	ciphersuits:
+meituan	50	port:53015 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:58464 1900	win:	ciphersuits:
+meituan	50	port:50725 5355	win:	ciphersuits:
+meituan	50	port:55011 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:58159 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:62317 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:59032 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:60934 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:60873 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:61849 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:58479 1900	win:	ciphersuits:
+meituan	50	port:62044 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:62144 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:59082 1900	win:	ciphersuits:
+meituan	50	port:54021 5355	win:	ciphersuits:
+meituan	50	port:58014 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:60899 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:60903 1900	win:	ciphersuits:
+meituan	50	port:53623 5355	win:	ciphersuits:
+meituan	50	port:59704 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:59705 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:59804 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:54070 1900	win:	ciphersuits:
+meituan	50	port:53162 5355	win:	ciphersuits:
+meituan	50	port:61452 5355	win:	ciphersuits:
+meituan	50	port:64952 5355	win:	ciphersuits:
+meituan	50	port:61001 5355	win:	ciphersuits:
+meituan	50	port:61128 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:61129 1900	win:	ciphersuits:
+meituan	50	port:52122 5355	win:	ciphersuits:
+meituan	50	port:56966 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:56477 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:56481 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:59643 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:60534 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:60888 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:59677 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:56137 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:55167 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:50416 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:54151 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:49580 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:49542 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:54456 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:49937 1900	win:	ciphersuits:
+meituan	50	port:53099 5355	win:	ciphersuits:
+meituan	50	port:57625 5355	win:	ciphersuits:
+meituan	50	port:58923 5355	win:	ciphersuits:
+meituan	50	port:60672 5355	win:	ciphersuits:
+meituan	50	port:54095 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:62296 1900	win:	ciphersuits:
+meituan	50	port:51627 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:54413 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:50890 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:50537 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:58175 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:58179 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:57553 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:57557 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:55349 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:56138 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:56144 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:50157 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:55584 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:56414 1900	win:	ciphersuits:
+meituan	201	201	201	201	201	201	201	201	port:49152 1900	win:	ciphersuits:
+meituan	50	port:60235 5355	win:	ciphersuits:
+meituan	50	port:50164 5355	win:	ciphersuits:
+meituan	50	port:58060 5355	win:	ciphersuits:
+meituan	50	port:62395 5355	win:	ciphersuits:
+meituan	50	port:52060 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:53547 1900	win:	ciphersuits:
+meituan	50	port:62670 5355	win:	ciphersuits:
+meituan	50	port:61404 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:60991 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:56719 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:56723 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:58074 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:58078 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:50425 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:49949 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:51993 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:61554 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:54713 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:57651 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:59590 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:52557 1900	win:	ciphersuits:
+meituan	50	port:58908 5355	win:	ciphersuits:
+meituan	50	port:58151 5355	win:	ciphersuits:
+meituan	50	port:59317 5355	win:	ciphersuits:
+meituan	50	port:57142 5355	win:	ciphersuits:
+meituan	50	port:49504 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:49505 1900	win:	ciphersuits:
+meituan	50	port:53021 5355	win:	ciphersuits:
+meituan	50	port:49180 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:57742 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:60337 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:61171 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:52346 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:56842 1900	win:	ciphersuits:
+meituan	50	port:50258 5355	win:	ciphersuits:
+meituan	50	port:61461 5355	win:	ciphersuits:
+meituan	50	port:61916 5355	win:	ciphersuits:
+meituan	50	port:52805 5355	win:	ciphersuits:
+meituan	60	port:55723 5355	win:	ciphersuits:
+meituan	60	port:55590 5355	win:	ciphersuits:
+meituan	59	port:56883 5355	win:	ciphersuits:
+meituan	59	port:62300 5355	win:	ciphersuits:
+meituan	53	port:49308 5355	win:	ciphersuits:
+meituan	53	port:59517 5355	win:	ciphersuits:
+meituan	53	port:59449 5355	win:	ciphersuits:
+meituan	53	port:54971 5355	win:	ciphersuits:
+meituan	59	port:60385 5355	win:	ciphersuits:
+meituan	59	port:58577 5355	win:	ciphersuits:
+meituan	60	port:58162 5355	win:	ciphersuits:
+meituan	60	port:55805 5355	win:	ciphersuits:
+meituan	50	port:62512 5355	win:	ciphersuits:
+meituan	50	port:51827 5355	win:	ciphersuits:
+meituan	50	port:52131 5355	win:	ciphersuits:
+meituan	50	port:56177 5355	win:	ciphersuits:
+meituan	50	port:61362 5355	win:	ciphersuits:
+meituan	50	port:57307 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:51061 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:51065 1900	win:	ciphersuits:
+meituan	50	port:49330 5355	win:	ciphersuits:
+meituan	50	port:62093 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:52799 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:51663 1900	win:	ciphersuits:
+meituan	50	port:58253 5355	win:	ciphersuits:
+meituan	50	port:51662 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:55540 1900	win:	ciphersuits:
+meituan	50	port:56256 5355	win:	ciphersuits:
+meituan	50	port:53080 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:53081 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:53085 1900	win:	ciphersuits:
+meituan	50	port:61775 5355	win:	ciphersuits:
+meituan	50	port:50621 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:52384 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:56642 1900	win:	ciphersuits:
+meituan	50	port:54661 5355	win:	ciphersuits:
+meituan	50	port:58763 5355	win:	ciphersuits:
+meituan	50	port:54242 5355	win:	ciphersuits:
+meituan	50	port:49246 5355	win:	ciphersuits:
+meituan	50	port:60301 5355	win:	ciphersuits:
+meituan	50	port:57240 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:57241 1900	win:	ciphersuits:
+meituan	50	port:59996 5355	win:	ciphersuits:
+meituan	50	port:53013 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:58540 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:54498 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:62255 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:64861 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:64865 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:49995 1900	win:	ciphersuits:
+meituan	201	201	port:52241 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:49457 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:50783 1900	win:	ciphersuits:
+meituan	50	port:57496 5355	win:	ciphersuits:
+meituan	50	port:50782 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:50787 1900	win:	ciphersuits:
+meituan	50	port:65108 5355	win:	ciphersuits:
+meituan	50	port:62266 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:62267 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:62271 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:54486 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:54832 1900	win:	ciphersuits:
+meituan	50	port:52850 5355	win:	ciphersuits:
+meituan	50	port:56024 5355	win:	ciphersuits:
+meituan	50	port:60556 5355	win:	ciphersuits:
+meituan	50	port:61013 5355	win:	ciphersuits:
+meituan	50	port:49219 5355	win:	ciphersuits:
+meituan	50	port:58357 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:58358 1900	win:	ciphersuits:
+meituan	50	port:50985 5355	win:	ciphersuits:
+meituan	50	port:55249 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:53584 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:60092 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:60390 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:50853 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:54107 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:53833 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:53837 1900	win:	ciphersuits:
+meituan	50	port:54187 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:56143 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:56060 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:55684 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:60144 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:50392 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:60655 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:55363 1900	win:	ciphersuits:
+meituan	50	port:52482 5355	win:	ciphersuits:
+meituan	50	port:65288 5355	win:	ciphersuits:
+meituan	50	port:54263 5355	win:	ciphersuits:
+meituan	50	port:57663 5355	win:	ciphersuits:
+meituan	50	port:53392 5355	win:	ciphersuits:
+meituan	50	port:61575 5355	win:	ciphersuits:
+meituan	201	201	201	201	port:53393 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:54298 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:60726 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:56664 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:57287 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:57291 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:59265 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:59269 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:53795 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:61559 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:62549 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:56980 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:54502 1900	win:	ciphersuits:
+meituan	201	201	201	201	port:49959 1900	win:	ciphersuits:

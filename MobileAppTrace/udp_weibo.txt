@@ -1,0 +1,10 @@
+weibo	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	165	port:51895 1900	win:	ciphersuits:
+weibo	48	48	120	48	48	120	port:49521 3478	win:	ciphersuits:
+weibo	48	84	48	84	48	84	port:49521 3478	win:	ciphersuits:
+weibo	48	48	48	120	port:48907 3478	win:	ciphersuits:
+weibo	48	84	port:48907 3478	win:	ciphersuits:
+weibo	48	84	48	84	port:37058 3478	win:	ciphersuits:
+weibo	48	48	120	port:37058 3478	win:	ciphersuits:
+weibo	48	48	48	port:42839 3478	win:	ciphersuits:
+weibo	48	48	120	120	48	48	48	120	port:39228 3478	win:	ciphersuits:
+weibo	48	84	48	84	port:39228 3478	win:	ciphersuits:
