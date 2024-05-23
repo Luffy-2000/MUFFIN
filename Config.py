@@ -1,0 +1,122 @@
+Scenario_set = {
+    "TMC": {
+        "dataset":{"net":"data/APP_ICNP_New", "iot":"data/TMC_ICNP_New"},
+        "net_class_dict": {'blued':0, 'taobao':1, 'zhihu':2, 'Pandora':3, 'baidusearchbox':4,
+                'ctrip':5, 'neteasecloudmusic':6, 'weibo':7, 'linkedin':8, 'twitter':9,
+                'pinduoduo':10, 'facebook':11, 'vipshop':12, 'github':13, 'Reddit':14,
+                'meituan':15, 'alipay':16, 'TikTok':17, 'jingdong':18, 'baidumap':19,
+                'airbnb':20, 'ele':21, 'toutiao':22, 'instagram':23, 'TripAdvisor':24,
+                'yirendai':25, 'amap':26, 'booking':27},
+        "iot_class": {'0':28, '1':29, '2':30, '3':31, '4':32,
+                      '5':33, '6':34, '7':35, '8':36, '9':37,
+                      '10':38, '11':39, '12':40, '13':41, '14':42, '15':43}
+    },
+    "IMC": {
+        "dataset":{"net":"data/APP_ICNP_New", "iot":"data/IMC_ICNP_New"},
+        "net_class_dict": {'blued':0, 'taobao':1, 'zhihu':2, 'Pandora':3, 'baidusearchbox':4,
+                'ctrip':5, 'neteasecloudmusic':6, 'weibo':7, 'linkedin':8, 'twitter':9,
+                'pinduoduo':10, 'facebook':11, 'vipshop':12, 'github':13, 'Reddit':14,
+                'meituan':15, 'alipay':16, 'TikTok':17, 'jingdong':18, 'baidumap':19,
+                'airbnb':20, 'ele':21, 'toutiao':22, 'instagram':23, 'TripAdvisor':24,
+                'yirendai':25, 'amap':26, 'booking':27},
+        "iot_class": {'0':28, '1':29, '2':30, '3':31, '4':32,
+                      '5':33, '6':34, '8':36, '12':40, '13':41, 
+                      '14':42, '15':43, '16':44, '17':45, '18':46, 
+                      '19':47, '20':48, '21':49, '22':50, '23':51, 
+                      '25':53, '27':55, '28':56, '29':57, '31':59, 
+                      '32':60, '33':61, '34':62, '35':63, '36':64,
+                      '38':66, '39':67}
+    },
+    "CIC":{
+        "dataset":{"net":"data/APP_ICNP_New", "iot":"data/CIC_ICNP_New"},
+        "net_class_dict": {'blued':0, 'taobao':1, 'zhihu':2, 'Pandora':3, 'baidusearchbox':4,
+                'ctrip':5, 'neteasecloudmusic':6, 'weibo':7, 'linkedin':8, 'twitter':9,
+                'pinduoduo':10, 'facebook':11, 'vipshop':12, 'github':13, 'Reddit':14,
+                'meituan':15, 'alipay':16, 'TikTok':17, 'jingdong':18, 'baidumap':19,
+                'airbnb':20, 'ele':21, 'toutiao':22, 'instagram':23, 'TripAdvisor':24,
+                'yirendai':25, 'amap':26, 'booking':27
+                },
+        "iot_class": {'0':28, '2':30, '3':31, '4':32, '5':33, 
+                      '6':34, '7':35, '8':36, '9':37, '10':38, 
+                      '11':39, '13':40, '14':41, '15':42, '16':43,
+                      '18':45, '19':46, '22':49, '23':50, '24':51}
+    },
+    "ALL":{
+        "dataset":{"net":"data/APP_ICNP_New", "iot":"data/ALL_ICNP_New"},
+        "net_class_dict": {'blued':0, 'taobao':1, 'zhihu':2, 'Pandora':3, 'baidusearchbox':4,
+                'ctrip':5, 'neteasecloudmusic':6, 'weibo':7, 'linkedin':8, 'twitter':9,
+                'pinduoduo':10, 'facebook':11, 'vipshop':12, 'github':13, 'Reddit':14,
+                'meituan':15, 'alipay':16, 'TikTok':17, 'jingdong':18, 'baidumap':19,
+                'airbnb':20, 'ele':21, 'toutiao':22, 'instagram':23, 'TripAdvisor':24,
+                'yirendai':25, 'amap':26, 'booking':27},
+        "iot_class": {'0': 28, '1': 29, '2': 30, '3': 31, '4': 32,
+                    '5': 33, '6': 34, '7': 35, '8': 36, '9': 37,
+                    '10': 38, '11': 39, '12': 40, '13': 41, '14': 42,
+                    '15': 43, '16': 44, '18': 46, '19': 47, '20': 48, 
+                    '21': 49, '22': 50, '23': 51, '24': 52, '25': 53, 
+                    '26': 54, '27': 55, '29': 57, '30': 58, '31': 59, 
+                    '32': 60, '34': 62, '35': 63, '38': 66, '39': 67, 
+                    '40': 68, '43': 71, '44': 72, '45': 73, '46': 74, 
+                    '47': 75, '48': 76, '49': 77, '51': 79, '55': 83, 
+                    '56': 84, '57': 85, '58': 86, '59': 87, '60': 88,
+                    '61': 89, '62': 90, '63': 91, '64': 92, '65': 93, 
+                    '66': 94, '68': 96, '70': 98, '71': 99, '72': 100, 
+                    '74': 102, '75': 103, '76': 104, '77': 105, 
+                    '78': 106, '79': 107, '81': 109, '82': 110
+                }
+    }
+
+}
+
+
+
+
+
+
+ciphersuit_dict = {
+    'AES_128_GCM_SHA256': 0x1301,
+    'AES_256_GCM_SHA384': 0x1302,
+    'CHACHA20_POLY1305_SHA256': 0x1303,
+    'ECDHE_RSA_WITH_AES_128_GCM_SHA256': 0xC02F,
+    'ECDHE_RSA_WITH_AES_128_CBC_SHA256': 0xC027,
+    'ECDHE_RSA_WITH_AES_128_CBC_SHA': 0xC013,
+    'ECDHE_RSA_WITH_AES_256_GCM_SHA384': 0xC030,
+    'ECDHE_RSA_WITH_AES_256_CBC_SHA384': 0xC028,
+    'ECDHE_RSA_WITH_AES_256_CBC_SHA': 0xC014,
+    'ECDHE_RSA_WITH_ARIA_256_GCM_SHA384': 0xC061,
+    'ECDHE_RSA_WITH_ARIA_128_GCM_SHA256': 0xC060,
+    'ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384': 0xC077,
+    'ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256': 0xC076,
+    'RSA_WITH_AES_256_GCM_SHA384': 0x9D,
+    'RSA_WITH_AES_256_CCM_8': 0xC0A1,
+    'RSA_WITH_AES_256_CCM': 0xC09D,
+    'RSA_WITH_ARIA_256_GCM_SHA384': 0xC051,
+    'RSA_WITH_AES_128_GCM_SHA256': 0x9C,
+    'RSA_WITH_AES_128_CCM_8': 0xC0A0,
+    'ECDHE_ECDSA_WITH_AES_256_GCM_SHA384': 0xC02C,
+    'RSA_WITH_AES_128_CCM': 0xC09C,
+    'RSA_WITH_ARIA_128_GCM_SHA256': 0xC050,
+    'RSA_WITH_AES_256_CBC_SHA256': 0x3D,
+    'RSA_WITH_CAMELLIA_256_CBC_SHA256': 0xC0,
+    'RSA_WITH_AES_128_CBC_SHA256': 0x3C,
+    'RSA_WITH_CAMELLIA_128_CBC_SHA256': 0xBA,
+    'RSA_WITH_AES_256_CBC_SHA': 0x35,
+    'RSA_WITH_CAMELLIA_256_CBC_SHA': 0x84,
+    'RSA_WITH_AES_128_CBC_SHA': 0x2F,
+    'RSA_WITH_SEED_CBC_SHA': 0x96,
+    'RSA_WITH_CAMELLIA_128_CBC_SHA': 0x41,
+    'ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256': 0xCCA8,
+    'ECDHE_ECDSA_WITH_AES_128_GCM_SHA256': 0xC02B,
+    'ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256': 0xCCA9,
+    'ECDHE_ECDSA_WITH_AES_128_CBC_SHA': 0xC009,
+    'ECDHE_ECDSA_WITH_AES_256_CBC_SHA': 0xC00A,
+    'RSA_WITH_3DES_EDE_CBC_SHA': 0xA,
+    'RSA_WITH_IDEA_CBC_SHA': 0x7,
+    'DHE_RSA_WITH_AES_256_CBC_SHA': 0x39,
+    'DHE_RSA_WITH_AES_128_CBC_SHA': 0x33,
+    'PSK_WITH_AES_128_CBC_SHA256': 0xAE,
+    'DHE_RSA_WITH_AES_256_GCM_SHA384': 0xFFFF,
+    'ECDHE_RSA_WITH_RC4_128_SHA': 0xFF,
+    '': 0x0,
+}
+
